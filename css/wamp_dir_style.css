@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.results {
+	padding-left:60px;
+	}
+
+.results a{
+	text-decoration:none;
+	color: #800000;
+	text-transform:capitalize;
+	}
