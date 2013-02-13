@@ -14,7 +14,7 @@ require_once "includes/config.php";
                     <li><a href="http://thepiratebay.se">PBAY</a></li>
                     <li><a href="http://www.mint.com">MINT</a></li>
                     <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
-                    <li><a href="http://www.google.com">GOOGLE</a></li>
+                    <li><a href="http://www.google.com">GOOGLE</a></li> 
                     <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
                 </ul>
             </div>
