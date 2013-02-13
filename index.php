@@ -10,6 +10,7 @@ require_once "includes/config.php";
             <div class="quick-links">
                 <ul>
                     <li><a href="http://localhost">LOCALHOST</a></li>
+                    <li><a href="http://localhost/phpmyadmin">PHPMYADMIN</a></li>
                     <li><a href="http://thepiratebay.se">PBAY</a></li>
                     <li><a href="http://www.mint.com">MINT</a></li>
                     <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
