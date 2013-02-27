@@ -14,7 +14,7 @@ require_once "includes/config.php";
                     <li><a href="http://thepiratebay.se">PBAY</a></li>
                     <li><a href="http://www.mint.com">MINT</a></li>
                     <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
-                    <li><a href="http://www.google.com">GOOGLE</a></li> 
+                    <li><a href="http://www.google.com">GOOGLE</a></li>
                     <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
                 </ul>
             </div>
@@ -64,10 +64,10 @@ require_once "includes/config.php";
                 <?php getFeed("http://www.blueacorn.com/feed", 5); ?>
             </div>
 
-<!--            <h4>Basecamp Deployments:</h4>-->
-<!--            <div class="feed-blueacorn">-->
-<!--                --><?php //getFeed("https://james@blueacorn.com:robot911@https://blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 5); ?>
-<!--            </div>-->
+            <h4>Basecamp Deployments:</h4>
+            <div class="feed-blueacorn">
+                <?php getFeed("https://james@blueacorn.com:robot911@https://blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 5); ?>
+            </div>
             <h4>Pirate Bay Feed:</h4>
                         <div class="feed-pbay">
             <?php makePirateFeed("http://thepiratebay.se/top/201"); ?>
