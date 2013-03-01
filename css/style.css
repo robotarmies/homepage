@@ -89,3 +89,19 @@ span.temp-current {
     float: left;
     display:block;
 }
+
+/*Beanstalk feed overrides*/
+div.rev-info-block {
+    padding-top: 50px;
+}
+
+
+div.rev-info-block span.userpic {
+    display: inline;
+    margin-top: -70px;
+}
+
+div.rev-info-block p.rev-comment {
+    display: block;
+    margin-bottom: 0px;
+}

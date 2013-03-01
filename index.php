@@ -21,8 +21,8 @@ require_once "includes/config.php";
 
 
                 <div id="weather" align="center" style="width:200px"></div>
-<!--            <div class="config">-->
-<!--                --><?php //echo getConfigDisplay(); ?>
+<!--            <div><br>-->
+<!--                --><?php //echo "version ".getVersion(); ?>
 <!--            </div>-->
 <!--            <div class="level-up">-->
 <!--                <h2 align="left">level up.</h2>-->
@@ -64,9 +64,9 @@ require_once "includes/config.php";
                 <?php getFeed("http://www.blueacorn.com/feed", 5); ?>
             </div>
 
-            <h4>Basecamp Deployments:</h4>
+            <h4>Beanstalk Deployments:</h4>
             <div class="feed-blueacorn">
-                <?php getFeed("https://james@blueacorn.com:robot911@https://blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 5); ?>
+                <?php getBstalkFeed("https://james@blueacorn.com:robot911@blueacorn.beanstalkapp.com/esta-america/activity/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 7); ?>
             </div>
             <h4>Pirate Bay Feed:</h4>
                         <div class="feed-pbay">

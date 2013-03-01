@@ -11,6 +11,13 @@ function getConfigDisplay(){
     return $return;
 }
 
+function getVersion() {
+    $content = file_get_contents('./config/version.xml');
+    $x = new SimpleXmlElement($content);
+    $version = (string)$x->config->version;
+    return $version;
+}
+
 function getFeed($feed_url, $count = 10) {
     $content = file_get_contents($feed_url);
     $x = new SimpleXmlElement($content);
@@ -20,6 +27,27 @@ function getFeed($feed_url, $count = 10) {
         if ($i < $count) {
         $date = new DateTime($entry->pubDate);
         echo "<li>" . $date->format('F jS, Y') . " <a href='$entry->link' title='$entry->title'>" . $entry->title . "</a></li>";
+        }
+        $i++;
+    }
+    echo "</ul>";
+}
+
+function getBStalkFeed($feed_url, $count = 10) {
+    $content = file_get_contents($feed_url);
+    $x = new SimpleXmlElement($content);
+    echo "<ul>";
+    $i = 0;
+    foreach ($x->entry as $entry) {
+        if ($i < $count) {
+        $date = new DateTime($entry->updated);
+        $link = (string) $entry->link;
+        $newContent = preg_replace("/[\n]+/", "", $entry->content);
+        $newContent = preg_replace("/<p/", "<div", $newContent);
+        $newContent = preg_replace("/p>/", "div>", $newContent);
+
+//        echo "<li>" . $date->format('F jS, Y') . " <a href='$link' title='$entry->title'>" . $entry->content . "</a></li>";
+        echo "<li>" . $entry->summary . "</li>";
         }
         $i++;
     }
