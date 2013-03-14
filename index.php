@@ -3,6 +3,9 @@ require_once "header.php";
 require_once "includes/functions.php";
 require_once "includes/config.php";
 ?>
+<!-- ADD VERSIONING TO THE MASTHEAD -->
+<div id="version"><?php echo "build ".getVersion(); ?></div>
+
 <table align="center">
     <tr>
         <!-- COLUMN ONE -->
@@ -20,10 +23,14 @@ require_once "includes/config.php";
             </div>
 
 
-                <div id="weather" align="center" style="width:200px"></div>
-<!--            <div><br>-->
-<!--                --><?php //echo "version ".getVersion(); ?>
+            <div id="weather" align="center" style="width:200px"></div>
+            <div id="clear"></div>
+<!--            <hr>-->
+<!--            <div id="todo-list">-->
+<!--                To Do List Here-->
 <!--            </div>-->
+
+
 <!--            <div class="level-up">-->
 <!--                <h2 align="left">level up.</h2>-->
 <?php
