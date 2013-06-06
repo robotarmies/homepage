@@ -73,7 +73,7 @@ require_once "includes/config.php";
 
             <h4>Beanstalk Deployments:</h4>
             <div class="feed-blueacorn">
-                <?php getBstalkFeed("https://james@blueacorn.com:robot911@blueacorn.beanstalkapp.com/esta-america/activity/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 7); ?>
+                <?php getBstalkFeed("https://james@blueacorn.com:robot911@blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 10); ?>
             </div>
             <h4>Pirate Bay Feed:</h4>
                         <div class="feed-pbay">
