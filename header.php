@@ -76,7 +76,7 @@
         <!--simple weather script-->
         <script>
             $.simpleWeather({
-                zipcode: '29401',
+                zipcode: '29464',
                 unit: 'f',
                 success: function(weather) {
 //    html = '<h2>'+weather.city+', '+weather.region+' '+weather.country+'</h2>';
@@ -84,8 +84,8 @@
 //    html += '<p class="temp"><strong>Today\'s High</strong>: '+weather.high+'&deg; '+weather.units.temp+'<br />';
 //    html += '<strong>Today\'s Low</strong>: '+weather.low+'&deg; '+weather.units.temp+'</p>';
                     html += '<span class="temp-current"><strong>'+weather.temp+'&deg; '+weather.units.temp+'</strong></span>';
-                    html += '<span class="temp">High of '+weather.high+'&deg; '+weather.units.temp+'<br />';
-                    html += 'Low of '+weather.low+'&deg; '+weather.units.temp+'</span>';
+                    html += '<span class="temp">High: '+weather.high+'&deg; '+weather.units.temp+' | ';
+                    html += 'Low: '+weather.low+'&deg; '+weather.units.temp+'</span>';
                     //                html += '<p><strong>Thumbnail</strong>: <img src="'+weather.thumbnail+'"></p>';
 //    html += '<p><strong>Wind</strong>: '+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+' <strong>Wind Chill</strong>: '+weather.wind.chill+'</p>';
 //    html += '<p><strong>Currently</strong>: '+weather.currently+' - <strong>Forecast</strong>: '+weather.forecast+'</p>';

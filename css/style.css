@@ -1,5 +1,5 @@
 /*Main Styles*/
-body{ font: 20px "Trebuchet MS", sans-serif; margin: 50px 0 0 0; background: #e6e6e6; height: 100%}
+body{ font: 20px "Trebuchet MS", sans-serif; margin: 50px 0 0 0; background: #e6e6e6; height: 100%; width: 100%}
 form {margin: 0px;}
 h3 {font-weight: bold; font-size: 18px; padding-left: 20px;}
 h4 {margin: 25px 0 0 0;}
@@ -92,7 +92,7 @@ span.pbay-error {font-style: italic; font-size: 12px;}
 
 /* Weather Styles */
 .temp {
-    font-size: 16px;
+    font-size: 12px;
     float: left;
 }
 span.temp-current {
