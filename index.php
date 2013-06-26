@@ -6,7 +6,7 @@ require_once "includes/config.php";
 <!-- ADD VERSIONING TO THE MASTHEAD -->
 <div id="version"><?php echo "build ".getVersion(); ?></div>
 
-<table align="center">
+<table align="center" class="content">
     <tr>
         <!-- COLUMN ONE -->
         <td valign="top">
