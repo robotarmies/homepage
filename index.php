@@ -73,7 +73,7 @@ require_once "includes/config.php";
     <!--ROW 2 -->
     <tr>
         <!-- COLUMN 1 -->
-        <td>
+        <td align="top">
             <div class="countdown">
                 <?php
                 $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
@@ -85,7 +85,7 @@ require_once "includes/config.php";
             </div>
 
         </td>
-        
+
         
         <!-- COLUMN 2 -->
         <td valign="top">
