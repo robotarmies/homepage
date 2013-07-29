@@ -26,18 +26,7 @@ require_once "includes/config.php";
 
             <div id="weather" align="center" style="width:200px"></div>
             <div id="clear"></div>
-
-            <div class="countdown">
-                <?php
-                $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
-                $s='';
-                if ($days!=1) {
-                    $s='s';
-                }
-                echo $days. " day$s until Colorado"; ?>
-            </div>
-            
-        </td>
+            </td>
 
         <!-- COLUMN TWO -->
         <td valign="top">
@@ -85,7 +74,18 @@ require_once "includes/config.php";
     <tr>
         <!-- COLUMN 1 -->
         <td>
+            <div class="countdown">
+                <?php
+                $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
+                $s='';
+                if ($days!=1) {
+                    $s='s';
+                }
+                echo $days. " day$s until Colorado"; ?>
+            </div>
+
         </td>
+        
         
         <!-- COLUMN 2 -->
         <td valign="top">
