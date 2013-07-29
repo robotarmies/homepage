@@ -19,26 +19,23 @@ require_once "includes/config.php";
                     <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
                     <li><a href="http://www.google.com">GOOGLE</a></li>
                     <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
+                    <li><a href="http://ocw.mit.edu/index.htm">MIT CLASSES</a></li>
                 </ul>
             </div>
 
 
             <div id="weather" align="center" style="width:200px"></div>
             <div id="clear"></div>
-<!--            <hr>-->
-<!--            <div id="todo-list">-->
-<!--                To Do List Here-->
-<!--            </div>-->
 
-
-<!--            <div class="level-up">-->
-<!--                <h2 align="left">level up.</h2>-->
-<?php
-//                    echo showPointTotals();
-//                    echo showGoalsForm();
-//?>
-<!--            </div>-->
-            
+            <div class="countdown">
+                <?php
+                $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
+                $s='';
+                if ($days!=1) {
+                    $s='s';
+                }
+                echo $days. " day$s until Colorado"; ?>
+            </div>
             
         </td>
 
