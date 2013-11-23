@@ -1,121 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Bruner Home Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- STYLING -->
+    <link type="text/css" href="css/styles.css" rel="stylesheet" media="screen" />
+    <link type="text/css" href="css/bootstrap.css" rel="stylesheet" media="screen"/>
+    <!-- JS -->
+    <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui-1.8.23.custom.min.js"></script>
+    <script type="text/javascript" src="js/easypaginate.js"></script>
+    <script type="text/javascript" src="js/bootstrap.js"></script>
+    <script type="text/javascript" src="js/jquery.simpleWeather.js"></script>
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
 <?php
-require_once "header.php";
-require_once "includes/functions.php";
-require_once "includes/config.php";
+    require_once "includes/functions.php";
+    require_once "includes/config.php";
+    date_default_timezone_set('America/New_York');
+    $date =  date('l, F jS Y');
 ?>
-<!-- ADD VERSIONING TO THE MASTHEAD -->
-<div id="version"><?php echo "build ".getVersion(); ?></div>
 
-<table align="center" class="content">
-    <tr>
-        <!-- COLUMN ONE -->
-        <td valign="top">
-            <div class="quick-links">
-                <ul>
-                    <li><a href="http://localhost">LOCALHOST</a></li>
-                    <li><a href="http://localhost/phpmyadmin">PHPMYADMIN</a></li>
-                    <li><a href="http://thepiratebay.se">PBAY</a></li>
-                    <li><a href="http://www.mint.com">MINT</a></li>
-                    <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
-                    <li><a href="http://www.google.com">GOOGLE</a></li>
-                    <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
-                    <li><a href="http://ocw.mit.edu/index.htm">MIT CLASSES</a></li>
-                </ul>
-            </div>
+<header>
+    <div class="container1">
+        <h5 class="fontface title title-left"><?php echo getVersion(); ?></h5>
+        <h5 class="fontface title title-right"><?php echo $date ?></h5>
+    </div>
+</header>
+
+<nav>
+    <div class="menu">
+        <ul>
+            <li><a href="http://localhost">LOCALHOST</a></li>
+            <li><a href="http://localhost/phpmyadmin">PHPMYADMIN</a></li>
+            <li><a href="http://thepiratebay.se">PBAY</a></li>
+            <li><a href="http://www.mint.com">MINT</a></li>
+            <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
+            <li><a href="http://www.google.com">GOOGLE</a></li>
+            <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
+            <li><a href="http://ocw.mit.edu/index.htm">MIT CLASSES</a></li>
+        </ul>
+    </div>
+</nav>
+<div id="wrapper"><!-- #wrapper -->
+    <section id="main"><!-- #main content and sidebar area -->
+
+        <aside id="sidebar1"><!-- sidebar1 -->
+            <div id="weather" align="center"></div>
+        </aside><!-- end of sidebar1 -->
 
 
-            <div id="weather" align="center" style="width:200px"></div>
-            <div id="clear"></div>
-            <div class="countdown">
-                <?php
-                $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
-                $s='';
-                if ($days!=1) {
-                    $s='s';
-                }
-                echo $days. " day$s until Colorado"; ?>
-            </div>
-            </td>
+        <section id="content"><!-- #content -->
 
-        <!-- COLUMN TWO -->
-        <td valign="top">
-            <div style="border: 0px solid black; padding: 4px; width: 470px; margin: 20px;">
-                <form method="get" action="http://www.google.com/search">
-                    <input type="text"   name="q" size="37" maxlength="255" value="" style="font-size: 25px;"/>
-                    <input type="submit" value="Google Search" style="font-size:16px; float: right;"/>  
+
+
+
+
+
+<!--            <article class="group3">-->
+<!--                <h2><a href="#">First Interesting Section Title</a></h2>-->
+<!--                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. <a href="#">Duis sagittis ipsum</a>. Sed cursus ante dapibus diam. </p>-->
+<!---->
+<!--            </article>-->
+<!---->
+<!--            <article class="group3">-->
+<!--                <h2><a href="#">Second Section or Article Title</a></h2>-->
+<!--                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.  </p>-->
+<!--            </article>-->
+<!--            <article class="group3">-->
+<!--                <h2><a href="#">First Interesting Section Title</a></h2>-->
+<!--                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. <a href="#">Duis sagittis ipsum</a>. Sed cursus ante dapibus diam. Sed nisi.</p>-->
+<!---->
+<!--            </article>-->
+
+            <article class="newsbox">
+                    <form method="get" action="http://www.google.com/search">
+                    <input type="text"   name="q" size="37" maxlength="255" value="" style="width: 410px"/>
+                    <input type="submit" value="Google Search" style="font-size:16px; float: right"/>
                 </form>
-            </div>
-            
-            <div class="pics">
-                <?php //echo showPhotos(5); ?>
-            </div>
+            </article>
 
-            <div class="craigslist">
-                <?php
-                getCLFeed("http://charleston.craigslist.org/search/msa?query=bass&srchType=A&format=rss", 15);
-                getCLFeed("http://charleston.craigslist.org/search/mca?hasPic=1&maxAsk=2000&minAsk=400&srchType=A&format=rss", 15);
-                ?>
+            <div class="newsbox">
+                <h5>Instruments</h5>
+                <div class="craigslist feed">
+                    <?php getCLFeed("http://charleston.craigslist.org/search/msa?query=bass&srchType=A&format=rss", 15); ?>
+                </div>
+                <h5>Motorcylces</h5>
+                <div class="craigslist feed">
+                    <?php getCLFeed("http://charleston.craigslist.org/search/mca?hasPic=1&maxAsk=2000&minAsk=400&srchType=A&format=rss", 15); ?>
+                </div>
             </div>
+        </section>
 
-        </td>
-
-        <!-- COLUMN THREE -->
-        <td class="links" valign="top">
-            <h4>Blue Acorn Feed:</h4>
-            <div class="feed-blueacorn">
+        <aside id="sidebar2"><!-- sidebar2 -->
+            <h4>BA Blog</h4>
+            <div class="blueacorn feed">
                 <?php getFeed("http://www.blueacorn.com/feed", 5); ?>
             </div>
 
-            <h4>Beanstalk Deployments:</h4>
-            <div class="feed-blueacorn">
+
+            <h4>Beanstalk</h4>
+            <div class="beanstalk feed">
                 <?php getBstalkFeed("https://james@blueacorn.com:robot911@blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 10); ?>
             </div>
-            <h4>Pirate Bay Feed:</h4>
-                        <div class="feed-pbay">
-            <?php makePirateFeed("http://thepiratebay.se/top/201"); ?>
-<!--                            http://rss.thepiratebay.se/user/d17c6a45441ce0bc0c057f19057f95e1-->
-                        </div>
-
-        </td>
-    </tr>
-
-    <!--ROW 2 -->
-    <tr>
-        <!-- COLUMN 1 -->
-        <td align="top">
-<!--            <div class="countdown">-->
-<!--                --><?php
-//                $days = ceil((strtotime("8/17/2013") - time())/(60*60*24));
-//                $s='';
-//                if ($days!=1) {
-//                    $s='s';
-//                }
-//                echo $days. " day$s until Colorado"; ?>
-<!--            </div>-->
-
-        </td>
-
-        
-        <!-- COLUMN 2 -->
-        <td valign="top">
-            <div class="craigslist">        
-            </div>
-        </td>
-        
-        <!-- COLUMN 3 -->
-        <td valign="top">
 
 
 
-                       
-            
-                  <!--      <h4>Stack Overflow:</h4>
-                        <div class="feed-blueacorn">
-            <?php //getFeed("http://stackoverflow.com/feeds/user/833795"); ?>
-                        </div>-->
-        </td>
-    </tr>
 
-</table>
+
+
+
+
+        </aside><!-- end of sidebar -->
+
+    </section><!-- end of #main content and sidebar-->
+</div>
+<footer>
+    <div class="container1">
+        <section id="footer-area">
+
+<!--            <section id="footer-outer-block">-->
+<!--                <aside class="footer-segment">-->
+<!--                    <h4>News</h4>-->
+<!--                    <ul>-->
+<!--                        <li><a href="#">U.S.</a></li>-->
+<!--                        <li><a href="#">Local</a></li>-->
+<!--                        <li><a href="#">World</a></li>-->
+<!--                    </ul>-->
+<!--                </aside><!-- end of #first footer segment -->
+<!---->
+<!--                <aside class="footer-segment">-->
+<!--                    <h4>About Us</h4>-->
+<!--                    <ul>-->
+<!--                        <li><a href="#">Corporate HQ</a></li>-->
+<!--                        <li><a href="#">Staff</a></li>-->
+<!--                        <li><a href="#">History</a></li>-->
+<!--                    </ul>-->
+<!--                </aside><!-- end of #second footer segment -->
+<!---->
+<!--                <aside class="footer-segment">-->
+<!--                    <h4>Contact Us</h4>-->
+<!--                    <ul>-->
+<!--                        <li><a href="#">Customer Support</a></li>-->
+<!--                        <li><a href="#">Divisions</a></li>-->
+<!--                        <li><a href="#">Investor Relations</a></li>-->
+<!--                        <li><a href="#">Job Opportunities</a></li>-->
+<!--                    </ul>-->
+<!--                </aside><!-- end of #third footer segment -->
+
+<!--                <aside class="footer-segment">-->
+<!--                    <h4>Blahdyblah</h4>-->
+<!--                    <p>&copy; 2010 <a href="#">yoursite.com</a> Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>-->
+<!--                </aside><!-- end of #fourth footer segment -->
+<!---->
+<!--            </section><!-- end of footer-outer-block -->
+
+        </section><!-- end of footer-area -->
+    </div>
+</footer>
+<!-- Free template distributed by http://freehtml5templates.com -->
+
+<!-- SIMPLE WEATHER -->
+<script>
+    $.simpleWeather({
+        zipcode: '29464',
+        unit: 'f',
+        success: function(weather) {
+//    html = '<h2>'+weather.city+', '+weather.region+' '+weather.country+'</h2>';
+            html = '<img align="right" style="width:100px" src="'+weather.image+'">';
+//    html += '<p class="temp"><strong>Today\'s High</strong>: '+weather.high+'&deg; '+weather.units.temp+'<br />';
+//    html += '<strong>Today\'s Low</strong>: '+weather.low+'&deg; '+weather.units.temp+'</p>';
+            html += '<span class="temp-current"><strong>'+weather.temp+'&deg; '+weather.units.temp+'</strong></span>';
+            html += '<span class="temp">High: '+weather.high+'&deg; '+weather.units.temp+' | ';
+            html += 'Low: '+weather.low+'&deg; '+weather.units.temp+'</span>';
+            //                html += '<p><strong>Thumbnail</strong>: <img src="'+weather.thumbnail+'"></p>';
+//    html += '<p><strong>Wind</strong>: '+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+' <strong>Wind Chill</strong>: '+weather.wind.chill+'</p>';
+//    html += '<p><strong>Currently</strong>: '+weather.currently+' - <strong>Forecast</strong>: '+weather.forecast+'</p>';
+            //                html += '<p><strong>Humidity</strong>: '+weather.humidity+' <strong>Pressure</strong>: '+weather.pressure+' <strong>Rising</strong>: '+weather.rising+' <strong>Visibility</strong>: '+weather.visibility+'</p>';
+            //                html += '<p><strong>Heat Index</strong>: '+weather.heatindex+'"></p>';
+//                    html += '<span class="sunrise"><strong>Sunrise</strong>: '+weather.sunrise+' - <strong>Sunset</strong>: '+weather.sunset+'</span>';
+            //                html += '<p><strong>Tomorrow\'s Date</strong>: '+weather.tomorrow.day+' '+weather.tomorrow.date+'<br /><strong>Tomorrow\'s High/Low</strong>: '+weather.tomorrow.high+'/'+weather.tomorrow.low+'<br /><strong>Tomorrow\'s Forecast</strong>: '+weather.tomorrow.forecast+'<br /> <strong>Tomorrow\'s Image</strong>: '+weather.tomorrow.image+'</p>';
+//    html += '<p><strong>Last updated</strong>: '+weather.updated+'</p>';
+            //                html += '<p><a href="'+weather.link+'">View forecast at Yahoo! Weather</a></p>';
+
+            $("#weather").html(html);
+        },
+        error: function(error) {
+            $("#weather").html("<p>"+error+"</p>");
+        }
+    });
+</script>
+
 </body>
 </html>

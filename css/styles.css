@@ -1,0 +1,299 @@
+/* layout */
+
+#wrapper {
+width: 1000px;
+margin: 0 auto;
+margin-top: 10px;
+margin-bottom: 20px;
+background: #fff;
+}
+#container{
+			position:relative;
+			width:1200px;
+			margin:0 auto;
+			background-color:transparent;
+}
+
+.container1{
+    width:1200px;
+    margin: 0 auto;
+	background-color:transparent;
+	padding-top: 20px;
+	color:#333;
+	position: relative;
+}
+.menu{
+    width:1000px;
+    margin: 0 auto;
+	background-color:transparent;
+	padding-top:10px;
+	padding-bottom:10px;
+	position: relative;
+    top: -15px;
+    text-align: center;
+}
+
+.group2rt{
+		float: right;
+	width: 200px;
+	position: relative;
+	background:transparent;
+	padding:15px;
+	margin-bottom:10px;
+}
+.group2 {
+	float: left;
+	width: 300px;
+	position: relative;
+	background:transparent;
+	padding:15px;
+	margin-bottom:10px;
+}
+
+.group3 {
+	float: left;
+	width: 120px;
+	position: relative;
+	background:transparent;
+	padding:10px;
+	margin-bottom:10px;
+	font-size: 12px;
+	display:block;
+	height: 250px;
+}
+
+.group4 {
+	float: left;
+	width: 420px;
+	position: relative;
+	background:transparent;
+	padding:60px 15px 15px;
+	margin-bottom:10px;
+}
+.newsbox {
+	float: left;
+	width: 425px;
+	position: relative;
+	background:transparent;
+	padding: 0 15px;
+	margin:0 auto;
+}
+
+#main {
+width: 940px;
+margin: 0 auto;
+padding-top: 30px;
+overflow: hidden;
+}
+
+#content {
+float: left;
+width: 450px;
+margin-left: 40px;
+}
+
+#sidebar1 {
+float: left;
+padding-left: 20px;
+width: 155px;
+}
+
+#sidebar2 {
+float: right;
+padding-right: 15px;
+width: 240px;
+}
+
+footer{
+	height:200px;
+	clear:both;
+	width:100%;
+	margin:0 auto;
+	background-color:#555;
+	color:#fff;
+}
+
+/************************ Navigation Menu ************************/
+aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {display: block}
+
+nav{
+	position:relative;
+    width:100%;
+	height:18px;
+	margin: 0 auto;
+	padding-top: 10px;
+	background:#555;
+	border-bottom: 1px solid #333;
+}
+nav li a:link{
+color:#aaa;
+font-size:16px;
+text-decoration: none;
+}
+nav li a:hover{
+color:#fff;
+}
+
+nav ul li{
+	float: left;
+	line-height:normal;
+	margin-left:15px;
+	list-style:none;
+}
+
+.clearing{
+	clear: both;
+	display: inline;
+	width: 100%;
+	height: 0;
+	overflow:hidden;
+}
+
+/** HEADER */
+header{
+	position: relative;
+	background: rgb(0, 0, 0);
+	width: 100%;
+	height:30px;
+	display:block;
+    color: #fff
+}
+
+header>h1 {
+float: left;
+margin: 0 0 18px 10px;
+width: 600px;
+font-size: 40px;
+line-height: 36px;
+}
+
+header>h1 a {
+color: #333;
+font-weight: bold;
+text-decoration: none;
+text-shadow: 0px 2px 3px #555;
+}
+
+header>h2 {
+color: #777;
+clear: right;
+float: right;
+font-style: italic;
+font-size: 14px;
+margin: 14px 10px 18px 0;
+}
+
+/** ARTICLES **/
+
+#content p, ul, ol, hr {
+margin-bottom: 24px;
+}
+
+#content ul ul, ol ol, ul ol, ol ul {
+margin-bottom: 0;
+}
+
+/* sidebar and footer widget blocks */
+
+aside ul {
+list-style: none;
+color: #aaa;
+margin: -15px 0 15px 25px;
+}
+
+#footer-area {
+
+color: #191919;
+font-size: 90%;
+padding: 18px 0;
+margin-left: 150px;
+
+}
+
+.footer-segment {
+float: left;
+margin-right: 20px;
+margin-left: 20px;
+width: 190px;
+}
+
+footer aside h4 {
+color: #191919;
+font-size: 16px;
+line-height: 1.5em;
+}
+
+footer ul {
+list-style: none;
+margin: -15px 0;
+}
+
+footer a:link, footer a:visited {
+color: #ccc;
+}
+
+footer a:hover {
+text-decoration: underline;
+}
+
+footer p {
+margin-top: -15px;
+color: #faf0e6;
+}
+
+/************************ Specifics ************************/
+
+ .title{
+	position: relative;
+   	top: -15px;
+	width:401px;
+	height:30px;
+	margin: 0 auto;
+	display: inline-block;
+	color:#fff;
+}
+
+.title-left {
+    float:left;
+    left: 140px;
+}
+
+.title-right {
+    float: right;
+    text-align: right;
+    right: 150px;
+}
+/* WEATHER */
+
+.temp-current {
+    float:left;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.temp {
+    display: inline-block;
+}
+
+#weather img {
+    width: 75px !important;
+}
+
+/* FEEDS */
+
+.feed ul {
+    list-style: none;
+    margin: 0 0 15px 5px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.craigslist {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.blog-title {
+    display: block;
+}

@@ -14,7 +14,7 @@ function getConfigDisplay(){
 function getVersion() {
     $content = file_get_contents('./config/version.xml');
     $x = new SimpleXmlElement($content);
-    $version = (string)$x->config->version;
+    $version = 'build '.(string)$x->config->version;
     return $version;
 }
 
@@ -26,7 +26,7 @@ function getFeed($feed_url, $count = 10) {
     foreach ($x->channel->item as $entry) {
         if ($i < $count) {
         $date = new DateTime($entry->pubDate);
-        echo "<li>" . $date->format('F jS, Y') . " <a href='$entry->link' title='$entry->title'>" . $entry->title . "</a></li>";
+        echo "<li>" . $date->format('F jS') . "<span class='blog-title'><a href='$entry->link' title='$entry->title'>" . $entry->title . "</a></span></li>";
         }
         $i++;
     }
@@ -34,24 +34,29 @@ function getFeed($feed_url, $count = 10) {
 }
 
 function getBStalkFeed($feed_url, $count = 10) {
-    $content = file_get_contents($feed_url);
-    $x = new SimpleXmlElement($content);
-    echo "<ul>";
-    $i = 0;
-    foreach ($x->entry as $entry) {
-        if ($i < $count) {
-        $date = new DateTime($entry->updated);
-        $link = (string) $entry->link;
-        $newContent = preg_replace("/[\n]+/", "", $entry->content);
-        $newContent = preg_replace("/<p/", "<div", $newContent);
-        $newContent = preg_replace("/p>/", "div>", $newContent);
+    try {
+        $content = file_get_contents($feed_url);
+        $x = new SimpleXmlElement($content);
+        echo "<ul>";
+        $i = 0;
+        foreach ($x->entry as $entry) {
+            if ($i < $count) {
+                $date = new DateTime($entry->updated);
+                $link = (string) $entry->link;
+                $newContent = preg_replace("/[\n]+/", "", $entry->content);
+                $newContent = preg_replace("/<p/", "<div", $newContent);
+                $newContent = preg_replace("/p>/", "div>", $newContent);
 
 //        echo "<li>" . $date->format('F jS, Y') . " <a href='$link' title='$entry->title'>" . $entry->content . "</a></li>";
-        echo "<li>" . $entry->summary . "</li>";
+                echo "<li>" . $entry->summary . "</li>";
+            }
+            $i++;
         }
-        $i++;
+        echo "</ul>";
+    } catch (Exception $e) {
+        //fail silently for now.
     }
-    echo "</ul>";
+
 }
 
 function getCLFeed($feed_url, $count = 100) {

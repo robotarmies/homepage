@@ -1,15 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <title>Bruner Home Page</title>
-        <link type="text/css" href="css/wamp_dir_style.css" rel="stylesheet" />
-        <link type="text/css" href="css/smoothness/jquery-ui-1.8.23.custom.css" rel="stylesheet" />
-        <link type="text/css" href="css/style.css" rel="stylesheet" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- STYLING -->
+        <link type="text/css" href="css/bootstrap.css" rel="stylesheet" media="screen"/>
+<!--        <link type="text/css" href="css/bootstrap-responsive.css" rel="stylesheet" media="screen"/>-->
+        <link type="text/css" href="css/style.css" rel="stylesheet" media="screen" />
+        <!-- JS -->
         <script type="text/javascript" src="js/jquery-1.8.0.min.js"></script>
         <script type="text/javascript" src="js/jquery-ui-1.8.23.custom.min.js"></script>
         <script type="text/javascript" src="js/easypaginate.js"></script>
+        <script type="text/javascript" src="js/bootstrap.js"></script>
         <script type="text/javascript" src="js/jquery.simpleWeather.js"></script>
+        <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+        <!-- ADDITIONAL JAVASCRIPT -->
         <script type="text/javascript">
             $(function(){
 
@@ -73,7 +80,8 @@
 
             });
         </script>
-        <!--simple weather script-->
+
+        <!-- SIMPLE WEATHER -->
         <script>
             $.simpleWeather({
                 zipcode: '29464',
@@ -106,13 +114,3 @@
 
 
     </head>
-    <body>
-        <div class="header">
-            <div class="user-info-panel">
-                <?php
-                date_default_timezone_set('America/New_York');
-                echo date('l, F jS Y'); ?>
-                <br>
-
-            </div>
-        </div>
