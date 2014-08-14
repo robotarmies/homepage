@@ -1,3 +1,5 @@
+<?php require_once "includes/functions.php"; ?>
+<?php date_default_timezone_set('America/New_York'); ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -14,41 +16,36 @@
     <script type="text/javascript" src="js/jquery.simpleWeather.js"></script>
     <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 </head>
-<body>
-<?php
-    require_once "includes/functions.php";
-    require_once "includes/config.php";
-    date_default_timezone_set('America/New_York');
-    $date =  date('l, F jS Y');
-?>
+    <body>
 
-<header>
+        <header>
     <div class="container1">
         <h5 class="fontface title title-left"><?php echo getVersion(); ?></h5>
-        <h5 class="fontface title title-right"><?php echo $date ?></h5>
+        <h5 class="fontface title title-right"><?php echo date('l, F jS Y') ?></h5>
     </div>
 </header>
 
-<nav>
+        <nav>
     <div class="menu">
         <ul>
             <li><a href="http://localhost">LOCALHOST</a></li>
             <li><a href="http://localhost/phpmyadmin">PHPMYADMIN</a></li>
             <li><a href="http://thepiratebay.se">PBAY</a></li>
+            <li><a href="http://eztv.it">EZTV</a></li>
             <li><a href="http://www.mint.com">MINT</a></li>
-            <li><a href="http://www.robotarmies.com">ROBOT ARMIES</a></li>
             <li><a href="http://www.google.com">GOOGLE</a></li>
+            <li><a href="http://www.google.com">GMAIL</a></li>
             <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
             <li><a href="http://ocw.mit.edu/index.htm">MIT CLASSES</a></li>
         </ul>
     </div>
 </nav>
-<div id="wrapper"><!-- #wrapper -->
+            <div id="wrapper"><!-- #wrapper -->
     <section id="main"><!-- #main content and sidebar area -->
 
-        <aside id="sidebar1"><!-- sidebar1 -->
-            <div id="weather" align="center"></div>
-        </aside><!-- end of sidebar1 -->
+<!--        <aside id="sidebar1"><!-- sidebar1 -->
+<!--            <div id="weather" align="center"></div>-->
+<!--        </aside><!-- end of sidebar1 -->
 
 
         <section id="content"><!-- #content -->
@@ -76,7 +73,7 @@
 
             <article class="newsbox">
                     <form method="get" action="http://www.google.com/search">
-                    <input type="text"   name="q" size="37" maxlength="255" value="" style="width: 410px"/>
+                    <input type="text"   name="q" size="37" maxlength="255" value="" style="width: 545px"/>
                     <input type="submit" value="Google Search" style="font-size:16px; float: right"/>
                 </form>
             </article>
@@ -94,6 +91,9 @@
         </section>
 
         <aside id="sidebar2"><!-- sidebar2 -->
+
+            <div id="weather" align="center"></div>
+
             <h4>BA Blog</h4>
             <div class="blueacorn feed">
                 <?php getFeed("http://www.blueacorn.com/feed", 5); ?>
@@ -102,7 +102,7 @@
 
             <h4>Beanstalk</h4>
             <div class="beanstalk feed">
-                <?php getBstalkFeed("https://james@blueacorn.com:robot911@blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 10); ?>
+                <?php getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 10); ?>
             </div>
 
 
@@ -116,7 +116,7 @@
 
     </section><!-- end of #main content and sidebar-->
 </div>
-<footer>
+        <footer>
     <div class="container1">
         <section id="footer-area">
 
@@ -159,10 +159,10 @@
         </section><!-- end of footer-area -->
     </div>
 </footer>
-<!-- Free template distributed by http://freehtml5templates.com -->
+        <!-- Free template distributed by http://freehtml5templates.com -->
 
-<!-- SIMPLE WEATHER -->
-<script>
+        <!-- SIMPLE WEATHER -->
+        <script>
     $.simpleWeather({
         zipcode: '29464',
         unit: 'f',
@@ -192,5 +192,5 @@
     });
 </script>
 
-</body>
+    </body>
 </html>

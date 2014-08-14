@@ -1,7 +1,7 @@
 /* layout */
 
 #wrapper {
-width: 1000px;
+width: 1200px;
 margin: 0 auto;
 margin-top: 10px;
 margin-bottom: 20px;
@@ -9,13 +9,13 @@ background: #fff;
 }
 #container{
 			position:relative;
-			width:1200px;
+			width:1400px;
 			margin:0 auto;
 			background-color:transparent;
 }
 
 .container1{
-    width:1200px;
+    width:1400px;
     margin: 0 auto;
 	background-color:transparent;
 	padding-top: 20px;
@@ -23,7 +23,7 @@ background: #fff;
 	position: relative;
 }
 .menu{
-    width:1000px;
+    width:1140px;
     margin: 0 auto;
 	background-color:transparent;
 	padding-top:10px;
@@ -72,7 +72,7 @@ background: #fff;
 }
 .newsbox {
 	float: left;
-	width: 425px;
+	width: 700px;
 	position: relative;
 	background:transparent;
 	padding: 0 15px;
@@ -80,7 +80,7 @@ background: #fff;
 }
 
 #main {
-width: 940px;
+width: 1140px;
 margin: 0 auto;
 padding-top: 30px;
 overflow: hidden;
@@ -88,20 +88,20 @@ overflow: hidden;
 
 #content {
 float: left;
-width: 450px;
-margin-left: 40px;
+width: 750px;
+margin-left: 5px;
 }
 
 #sidebar1 {
 float: left;
 padding-left: 20px;
-width: 155px;
+width: 0px;
 }
 
 #sidebar2 {
 float: right;
 padding-right: 15px;
-width: 240px;
+width: 370px;
 }
 
 footer{
@@ -269,11 +269,15 @@ color: #faf0e6;
 .temp-current {
     float:left;
     font-size: 30px;
-    margin-top: 15px;
+    margin: 5px;
 }
 
 .temp {
     display: inline-block;
+}
+
+#weather {
+    margin-bottom: 15px;
 }
 
 #weather img {
@@ -295,5 +299,10 @@ color: #faf0e6;
 }
 
 .blog-title {
-    display: block;
+    margin-left: 10px;
+    /*display: block;*/
+}
+
+#content input.text {
+    width: 545px
 }
