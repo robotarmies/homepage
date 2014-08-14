@@ -34,7 +34,7 @@
             <li><a href="http://eztv.it">EZTV</a></li>
             <li><a href="http://www.mint.com">MINT</a></li>
             <li><a href="http://www.google.com">GOOGLE</a></li>
-            <li><a href="http://www.google.com">GMAIL</a></li>
+            <li><a href="http://www.gmail.com">GMAIL</a></li>
             <li><a href="http://media.robotarmies.com">MOVIE FINDER</a></li>
             <li><a href="http://ocw.mit.edu/index.htm">MIT CLASSES</a></li>
         </ul>
@@ -102,7 +102,7 @@
 
             <h4>Beanstalk</h4>
             <div class="beanstalk feed">
-                <?php getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/ef0b02e24321253b13d87e445e5c2b54aea831dc", 10); ?>
+                <?php getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10); ?>
             </div>
 
 
