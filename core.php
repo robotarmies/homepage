@@ -9,12 +9,15 @@
 class Homepage_Core_Functions {
 
     public function getBackground() {
-        $bg_array = array(
-            "co_4.jpg",
-            "co_5.jpg",
-            "co_2.jpg",
-            "space_1.jpg",
-            "space_2.jpg",);
+
+//        $bg_array = $this->getNasaImage($count = 20);
+        $bg_array = $this->getDirectoryList('img/bg');
+//        $bg_array = array(
+//            "co_4.jpg",
+//            "co_5.jpg",
+//            "co_2.jpg",
+//            "space_1.jpg",
+//            "space_2.jpg",);
         return "img/bg/".$bg_array[array_rand($bg_array)];
     }
 
@@ -33,7 +36,23 @@ class Homepage_Core_Functions {
         echo "</ul>";
     }
 
-    public function getBStalkFeed($feed_url, $count = 10) {
+    public function getNasaImage ($count = 20) {
+        $i = 0;
+        $image = array();
+        $url = 'http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss';
+        $content = file_get_contents($url);
+        $xml = new SimpleXmlElement($content);
+        foreach ($xml->channel->item as $item) {
+            $i++;
+            if ($i < $count){
+                $image[] = $item->enclosure->attributes()->url;
+            }
+        }
+        return $image;
+    }
+
+    public function getBStalkFeed($feed_url, $count = 10)
+    {
         try {
             $content = file_get_contents($feed_url);
             $x = new SimpleXmlElement($content);
@@ -42,7 +61,7 @@ class Homepage_Core_Functions {
             foreach ($x->entry as $entry) {
                 if ($i < $count) {
                     $date = new DateTime($entry->updated);
-                    $link = (string) $entry->link;
+                    $link = (string)$entry->link;
                     $newContent = preg_replace("/[\n]+/", "", $entry->content);
                     $newContent = preg_replace("/<p/", "<div", $newContent);
                     $newContent = preg_replace("/p>/", "div>", $newContent);
@@ -56,6 +75,22 @@ class Homepage_Core_Functions {
         } catch (Exception $e) {
             //fail silently for now.
         }
-
     }
+        public function getDirectoryList($directory) {
+            // create an array to hold directory list
+            $results = array();
+            // create a handler for the directory
+            $handler = opendir($directory);
+            // open directory and walk through the filenames
+            while ($file = readdir($handler)) {
+                // if file isn't this directory or its parent, add it to the results
+                if ($file != "." && $file != "..") {
+                        $results[] = $file;
+                }
+            }
+            // tidy up: close the handler
+            closedir($handler);
+            // done!
+            return $results;
+        }
 }

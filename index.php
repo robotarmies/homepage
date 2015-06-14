@@ -143,8 +143,8 @@
     <section id="etc" class="container content-section text-center">
         <div class="row">
             <div class="col-md-9 col-md-offset-2 text-center">
-                <div class="service-item" style="padding:200px">
-                    Some other shit will go here eventually.
+                <div class="service-item">
+                    <?php foreach ($core->getNasaImage() as $image){ echo "<img class='nasa' src='$image'/>";} ?>
                 </div>
             </div>
         </div>
