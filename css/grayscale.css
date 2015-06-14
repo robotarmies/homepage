@@ -386,3 +386,7 @@ h4.cl-feed {
 .craigslist a {
     color: #eeeeee
 }
+
+.craigslist a:hover {
+    color: #aaaaaa
+}

@@ -26,7 +26,7 @@ class Homepage_Core_Functions {
         foreach ($x->item as $entry) {
             if ($i < $count) {
                 $date = new DateTime($entry->pubDate);
-                echo "<li>" . $date->format('m/j') . " - <a href='$entry->link' title='$entry->title' target='_blank'>" . $entry->title . "</a></li>";
+                echo "<li>" . $date->format('m/j') . " - <a href='$entry->link' title='$entry->description' target='_blank'>" . $entry->title . "</a></li>";
             }
             $i++;
         }
