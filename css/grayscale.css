@@ -64,9 +64,9 @@ a:focus {
     background-color: #000009;
 }
 
-.navbar-brand {
-    font-weight: 700;
-}
+/*.navbar-brand {*/
+    /*font-weight: 700;*/
+/*}*/
 
 .navbar-brand:focus {
     outline: 0;
@@ -364,6 +364,10 @@ body {
 }
 
 #clock {
+    display: inline;
+}
+
+#weather {
     display: inline;
 }
 

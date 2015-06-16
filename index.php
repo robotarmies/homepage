@@ -45,7 +45,8 @@
                 <a class="navbar-brand" href="#page-top">
                     <i class="fa fa-clock-o"></i>
                     <span class="light"><?php echo date('l, F jS Y') ?> / </span>
-                        <div id="clock">4:20:00 PM</div>
+                    <div id="weather" align="center">69° F & Sunny</div> /
+                    <div id="clock">4:20:00 PM</div>
                 </a>
             </div>
 
@@ -80,6 +81,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-9 col-md-offset-2">
+                        <!-- Google Search -->
                         <article class="newsbox">
                             <form method="get" action="http://www.google.com/search">
                                 <input type="text" name="q" size="50" maxlength="255" value="" style="font-size: 1.7em; width: 60%; margin: 0 5px 10px 0"/>
@@ -139,17 +141,17 @@
 
         </div>
     </section>
-
+<!--
     <section id="etc" class="container content-section text-center">
         <div class="row">
             <div class="col-md-9 col-md-offset-2 text-center">
                 <div class="service-item">
-                    <?php foreach ($core->getNasaImage('http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss') as $image){ echo "<img class='nasa' src='$image'/>";} ?>
+                    <?php //foreach ($core->getNasaImage('http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss') as $image){ echo "<img class='nasa' src='$image'/>";} ?>
                 </div>
             </div>
         </div>
     </section>
-
+-->
     <!-- Core JavaScript Files -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
@@ -160,5 +162,7 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/grayscale.js"></script>
+    <script type="text/javascript" src="js/jquery.simpleWeather.js"></script>
+
 </body>
 </html>

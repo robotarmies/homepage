@@ -183,5 +183,38 @@ $(document).ready(function() {
         // Update clock
         setInterval('updateClock()', 1000);
     }
+
+    <!-- SIMPLE WEATHER -->
+    $.simpleWeather({
+        zipcode: '29464',
+        unit: 'f',
+        success: function(weather) {
+            html = '<span class="temp-current">'+weather.temp+'&deg; '+weather.units.temp+'</span> & '+weather.currently;
+//    html = '<h2>'+weather.city+', '+weather.region+' '+weather.country+'</h2>';
+//            html = '<img class="weather" src="'+weather.image+'">';
+//    html += '<p class="temp"><strong>Today\'s High</strong>: '+weather.high+'&deg; '+weather.units.temp+'<br />';
+//    html += '<strong>Today\'s Low</strong>: '+weather.low+'&deg; '+weather.units.temp+'</p>';
+//            html += '<span class="temp-current"><strong>'+weather.temp+'&deg; '+weather.units.temp+'</strong></span>';
+            //html += '<span class="temp"> ('+weather.high+'&deg; '+')';
+            //html += 'Low: '+weather.low+'&deg; '+weather.units.temp+'</span>';
+            //                html += '<p><strong>Thumbnail</strong>: <img src="'+weather.thumbnail+'"></p>';
+//    html += '<p><strong>Wind</strong>: '+weather.wind.direction+' '+weather.wind.speed+' '+weather.units.speed+' <strong>Wind Chill</strong>: '+weather.wind.chill+'</p>';
+//    html += '<p><strong>Currently</strong>: '+weather.currently+' - <strong>Forecast</strong>: '+weather.forecast+'</p>';
+            //                html += '<p><strong>Humidity</strong>: '+weather.humidity+' <strong>Pressure</strong>: '+weather.pressure+' <strong>Rising</strong>: '+weather.rising+' <strong>Visibility</strong>: '+weather.visibility+'</p>';
+            //                html += '<p><strong>Heat Index</strong>: '+weather.heatindex+'</p>';
+//                    html += '<span class="sunrise"><strong>Sunrise</strong>: '+weather.sunrise+' - <strong>Sunset</strong>: '+weather.sunset+'</span>';
+            //                html += '<p><strong>Tomorrow\'s Date</strong>: '+weather.tomorrow.day+' '+weather.tomorrow.date+'<br /><strong>Tomorrow\'s High/Low</strong>: '+weather.tomorrow.high+'/'+weather.tomorrow.low+'<br /><strong>Tomorrow\'s Forecast</strong>: '+weather.tomorrow.forecast+'<br /> <strong>Tomorrow\'s Image</strong>: '+weather.tomorrow.image+'</p>';
+//    html += '<p><strong>Last updated</strong>: '+weather.updated+'</p>';
+            //                html += '<p><a href="'+weather.link+'">View forecast at Yahoo! Weather</a></p>';
+
+            $("#weather").html(html);
+        },
+        error: function(error) {
+            $("#weather").html("<p>"+error+"</p>");
+        }
+    });
+
+
 });
+
 
