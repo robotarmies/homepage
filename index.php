@@ -83,7 +83,7 @@
                         <article class="newsbox">
                             <form method="get" action="http://www.google.com/search">
                                 <input type="text" name="q" size="50" maxlength="255" value="" style="font-size: 1.7em; width: 60%; margin: 0 5px 10px 0"/>
-                                <input type="submit" value="Google Search" style="font-size:2em; display: inline;"/>
+                                <input type="submit" value="Learn" style="font-size:2em; display: inline;"/>
                             </form>
                         </article>
 <!--                        <h1 class="brand-heading">Be Awesome</h1>-->
