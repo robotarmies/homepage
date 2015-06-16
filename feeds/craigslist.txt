@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://charleston.craigslist.org/search/msa?format=rss&#x26;amp;query=bass&#x26;amp;srchType=A&#x26;amp;format=rss">
+<title>craigslist charleston | musical instruments search "bass"</title>
+<link>https://charleston.craigslist.org/search/msa?query=bass&#x26;amp;srchType=A</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://charleston.craigslist.org/search/msa?format=rss&#x26;amp;query=bass&#x26;amp;srchType=A&#x26;amp;format=rss</dc:source>
+<dc:title>craigslist charleston | musical instruments search "bass"</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2015-06-15T21:33:55-04:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5076297608.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5044124732.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5060296001.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5029209231.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5041494841.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5072924033.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5043933909.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5071045212.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5049289642.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msd/5061560918.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5068213721.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5066283215.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5065124862.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5019753080.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5063810607.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5015682665.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5048144949.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5049593471.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5010530850.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5055214590.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5055010580.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5054234621.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5051661862.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5030219872.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/msg/5049639952.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://charleston.craigslist.org/msg/5076297608.html">
+<title><![CDATA[fender 410 pro bass cabinet (summerville) &#x0024;285]]></title>
+<link>http://charleston.craigslist.org/msg/5076297608.html</link>
+<description><![CDATA[this is a great cabinet. 
+professional series, 8 ohm 
+comes with casters. (it is pretty heavy)]]></description>
+<dc:date>2015-06-15T20:16:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5076297608.html</dc:source>
+<dc:title><![CDATA[fender 410 pro bass cabinet (summerville) &#x0024;285]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00i0i_jiTyT33XOBR_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T20:16:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5044124732.html">
+<title><![CDATA[G&amp;L Tribute L-2500 5 String Bass (Moncks Corner) &#x0024;600]]></title>
+<link>http://charleston.craigslist.org/msg/5044124732.html</link>
+<description><![CDATA[G&L Tribute L-2500 with stainless DR Lowriders and Gator hardshell case. Active pickups. Excellent condition, just don't play much anymore.]]></description>
+<dc:date>2015-06-15T13:19:04-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5044124732.html</dc:source>
+<dc:title><![CDATA[G&amp;L Tribute L-2500 5 String Bass (Moncks Corner) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00x0x_a2RPTwo3u19_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T13:19:04-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5060296001.html">
+<title><![CDATA[Beginner's mini Bass Guitar Amp &#x0024;25]]></title>
+<link>http://charleston.craigslist.org/msg/5060296001.html</link>
+<description><![CDATA[Mini bass Amp perfect for practice at home and on the go! 
+Comes with amp and guitar amp cable 
+Amp has multiple easy-to-use sound settings and headphone inputs for quiet listening 
+Still has great sound for a small amp, only used a handful of times  [...]]]></description>
+<dc:date>2015-06-14T17:56:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5060296001.html</dc:source>
+<dc:title><![CDATA[Beginner's mini Bass Guitar Amp &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00J0J_bD9nGKBinsl_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T17:56:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5029209231.html">
+<title><![CDATA[LAKLAND BASS 5 STRING FOR SALE WITH HARD CASE (Low Country) &#x0024;625]]></title>
+<link>http://charleston.craigslist.org/msg/5029209231.html</link>
+<description><![CDATA[Lakland skyline 5 string bass. Great condition. All hardware is and pickups are premium grade. Sounds fantastic. Plays like a dream. Sunburst finish. Comes with hard shell case with felt liner. smells good too. Will sell to first person with cash. $6 [...]]]></description>
+<dc:date>2015-06-14T16:39:36-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5029209231.html</dc:source>
+<dc:title><![CDATA[LAKLAND BASS 5 STRING FOR SALE WITH HARD CASE (Low Country) &#x0024;625]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00808_hmRVeIdeE4d_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T16:39:36-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5041494841.html">
+<title><![CDATA[Ibanez PRB1 Bass Guitar (Goose Creek) &#x0024;350]]></title>
+<link>http://charleston.craigslist.org/msg/5041494841.html</link>
+<description><![CDATA[The signature bass of Shadows Fall bass player Paul Romanko. This is a bass with lots of cool cosmetics and a less-is-more approach when it comes to the electronics for a very plug in and play vibe. Features include a maple/walnut thru-neck with a li [...]]]></description>
+<dc:date>2015-06-14T16:06:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5041494841.html</dc:source>
+<dc:title><![CDATA[Ibanez PRB1 Bass Guitar (Goose Creek) &#x0024;350]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01414_bzw0e9DSkUL_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T16:06:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5072924033.html">
+<title><![CDATA[Ampeg B2 Bass Amp (Charleston) &#x0024;250]]></title>
+<link>http://charleston.craigslist.org/msg/5072924033.html</link>
+<description><![CDATA[Great amp that gets a very big sound! 200w alone or 350w with another 8ohm cabinet connected. Pad, limiter, equalizer, effects loop, speaker jack for 2nd cabinet, XLR out, and other features. I only played it for a couple of years in the mid 90s. It' [...]]]></description>
+<dc:date>2015-06-13T16:46:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5072924033.html</dc:source>
+<dc:title><![CDATA[Ampeg B2 Bass Amp (Charleston) &#x0024;250]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01414_1pynz6ho0wn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T16:46:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5043933909.html">
+<title><![CDATA[EBS MultiComp Bass Compressor Pedal (Summerville) &#x0024;160]]></title>
+<link>http://charleston.craigslist.org/msg/5043933909.html</link>
+<description><![CDATA[Up for grabs is like new, awesome EBS compressor pedal that I can't use...I wanted it for a music project but never even mounted it to my pedal board--it has never been gigged or even taken from my room; I literally used it for practice three times.  [...]]]></description>
+<dc:date>2015-06-13T16:35:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5043933909.html</dc:source>
+<dc:title><![CDATA[EBS MultiComp Bass Compressor Pedal (Summerville) &#x0024;160]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00T0T_n04akYassI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T16:35:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5071045212.html">
+<title><![CDATA[bass and amp combo or single sell (north charleston) &#x0024;160]]></title>
+<link>http://charleston.craigslist.org/msg/5071045212.html</link>
+<description><![CDATA[Looking to sell electric Hondo II bass which is orange in center and fades to a red-brown, which fades out to black. Neck on it is wooden and still has great strings. A few scratch marks willing to show close ups. It's in good condition, wouldn't sel [...]]]></description>
+<dc:date>2015-06-12T13:46:58-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5071045212.html</dc:source>
+<dc:title><![CDATA[bass and amp combo or single sell (north charleston) &#x0024;160]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00505_jQzF8rjKFB7_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-12T13:46:58-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5049289642.html">
+<title><![CDATA[1978 Fender Jazz bass (Savannah) &#x0024;1900]]></title>
+<link>http://charleston.craigslist.org/msg/5049289642.html</link>
+<description><![CDATA[Vintage jazz with maple neck and pearl inlays. All original other than the input jack. Generic hard shell case. It sounds and feels amazing. Tons of mojo. This is definitely a player. Frets are in good shape- plenty of wear left. Neck is straight as  [...]]]></description>
+<dc:date>2015-06-12T12:22:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5049289642.html</dc:source>
+<dc:title><![CDATA[1978 Fender Jazz bass (Savannah) &#x0024;1900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00B0B_4xWcI9UccZW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-12T12:22:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msd/5061560918.html">
+<title><![CDATA[SWR Redhead Bass Combo (Oakbrook) &#x0024;400]]></title>
+<link>http://charleston.craigslist.org/msd/5061560918.html</link>
+<description><![CDATA[Redhead Bass Combo 
+Welcome to the party! 2008 marks the twentieth anniversary of a love affair between bassists and the most influential (and most imitated) bass combo amplifier in history -- the SWR Redhead. The original Redhead revolutionized bass [...]]]></description>
+<dc:date>2015-06-11T16:18:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msd/5061560918.html</dc:source>
+<dc:title><![CDATA[SWR Redhead Bass Combo (Oakbrook) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00F0F_jTJLIPvtHri_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-11T16:18:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5068213721.html">
+<title><![CDATA[Bass Guitar +Amplifier (Branchville, S.C.) &#x0024;600]]></title>
+<link>http://charleston.craigslist.org/msg/5068213721.html</link>
+<description><![CDATA[We just did a house cleaning and decided these precious instruments would have to go. The peavey bass guitar is beautiful and rarely used. It was bought with the purpose of learning to play the bass guitar, but time prevented that goal. It has a wond [...]]]></description>
+<dc:date>2015-06-10T17:23:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5068213721.html</dc:source>
+<dc:title><![CDATA[Bass Guitar +Amplifier (Branchville, S.C.) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00C0C_kLb4ZYIM2Ur_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-10T17:23:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5066283215.html">
+<title><![CDATA[Fender Squier P-Bass with soft case (used) (west ashley) &#x0024;100]]></title>
+<link>http://charleston.craigslist.org/msg/5066283215.html</link>
+<description><![CDATA[Contact me if interested. Asking $100 for the bass and soft case. Volume and Tone knobs work, bass works. Never had any issues with it. 
+I also have an epiphone banjo like new condition if you are interested.]]></description>
+<dc:date>2015-06-09T15:07:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5066283215.html</dc:source>
+<dc:title><![CDATA[Fender Squier P-Bass with soft case (used) (west ashley) &#x0024;100]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00b0b_1TacOLeWhjg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-09T15:07:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5065124862.html">
+<title><![CDATA[Bugera Bass Head (Walterboro) &#x0024;300]]></title>
+<link>http://charleston.craigslist.org/msg/5065124862.html</link>
+<description><![CDATA[Selling my Bugera Bass Head still like new had it a little over a year still plays great just want to get something better 
+$300 or best reasonable offer]]></description>
+<dc:date>2015-06-08T20:38:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5065124862.html</dc:source>
+<dc:title><![CDATA[Bugera Bass Head (Walterboro) &#x0024;300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00g0g_eFvXsAqcrde_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-08T20:38:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5019753080.html">
+<title><![CDATA[Bose Portable PA System L1 Model II with B1 Bass Module and Tone Match (Charleston) &#x0024;1950]]></title>
+<link>http://charleston.craigslist.org/msg/5019753080.html</link>
+<description><![CDATA[Bose portable PA system. 
+Portable PA System with T1 ToneMatch Audio Engine/4-channel Mixer, Loudspeaker Line Array, Powerstand, B1 Bass Module, and Included Carrying Bags 
+Excellent system. 
+http://www.sweetwater.com/images/items/750/L1m2B1T1-large. [...]]]></description>
+<dc:date>2015-06-08T15:25:51-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5019753080.html</dc:source>
+<dc:title><![CDATA[Bose Portable PA System L1 Model II with B1 Bass Module and Tone Match (Charleston) &#x0024;1950]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00V0V_4WNNcKZIYXo_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-08T15:25:51-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5063810607.html">
+<title><![CDATA[GK MBS 3 Bass Amp (Charleston, SC) &#x0024;175]]></title>
+<link>http://charleston.craigslist.org/msg/5063810607.html</link>
+<description><![CDATA[This is an awesome bass amp. Insanely loud. The only problem with the amp, is a rattle in the frame that I cannot seem to locate. They sell for $700 new, so I'm asking $175 due to the frame rattle. Thanks!]]></description>
+<dc:date>2015-06-08T08:07:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5063810607.html</dc:source>
+<dc:title><![CDATA[GK MBS 3 Bass Amp (Charleston, SC) &#x0024;175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-06-08T08:07:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5015682665.html">
+<title><![CDATA[Ampeg TUBE Bass PreAmp SVP Pro (West Ashley) &#x0024;199]]></title>
+<link>http://charleston.craigslist.org/msg/5015682665.html</link>
+<description><![CDATA[All tube Ampeg SVP Pro bass preamp. American made, legendary Ampeg tone. Selling because I don't want to move the item. Used it with a solid state QSC power amp to Eden cabs with great results. 
+This guy has a nice overview of several different bass  [...]]]></description>
+<dc:date>2015-06-05T12:13:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5015682665.html</dc:source>
+<dc:title><![CDATA[Ampeg TUBE Bass PreAmp SVP Pro (West Ashley) &#x0024;199]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00M0M_4zjP3AtmWsn_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-05T12:13:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5048144949.html">
+<title><![CDATA[bass amp (Summerville) &#x0024;550]]></title>
+<link>http://charleston.craigslist.org/msg/5048144949.html</link>
+<description><![CDATA[Bass Rig for sale. Includes Peavey TKO115s, Ampeg BA-112, & Digitech BP-355 multi-effects processor. Both amps can be connected to processor for stereo sound. Excellent condition. $550 obo.]]></description>
+<dc:date>2015-06-05T12:12:49-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5048144949.html</dc:source>
+<dc:title><![CDATA[bass amp (Summerville) &#x0024;550]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01515_fKRkKVnBtt1_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-05T12:12:49-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5049593471.html">
+<title><![CDATA[Electric 5 string ibanez bass guitar (Summerville) &#x0024;75]]></title>
+<link>http://charleston.craigslist.org/msg/5049593471.html</link>
+<description><![CDATA[Great condition, 5 string Ibanez bass. Asking $75 Obo. Must pick up.]]></description>
+<dc:date>2015-06-05T03:18:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5049593471.html</dc:source>
+<dc:title><![CDATA[Electric 5 string ibanez bass guitar (Summerville) &#x0024;75]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00j0j_h5S7Rzu4Dvq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-05T03:18:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5010530850.html">
+<title><![CDATA[LAKLAND BASS 5 STRING FOR SALE WITH HARD CASE (Charleston) &#x0024;625]]></title>
+<link>http://charleston.craigslist.org/msg/5010530850.html</link>
+<description><![CDATA[Lakland skyline 5 string bass. Great condition. All hardware is and pickups are premium grade. Sounds fantastic. Plays like a dream. Sunburst finish. Comes with hard shell case with felt liner. smells good too. Will sell to first person with cash. $6 [...]]]></description>
+<dc:date>2015-06-03T12:33:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5010530850.html</dc:source>
+<dc:title><![CDATA[LAKLAND BASS 5 STRING FOR SALE WITH HARD CASE (Charleston) &#x0024;625]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00b0b_h7clTngB2TK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-03T12:33:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5055214590.html">
+<title><![CDATA[DigiTech BP-355 Bass Effects Pedal (West Ashley) &#x0024;99]]></title>
+<link>http://charleston.craigslist.org/msg/5055214590.html</link>
+<description><![CDATA[Digitech BP-355 Programmable Bass Effects Pedal. It is loaded with Drum beats, quality effects and models most popular amp sounds. It allows you to easily create loops for live performances and practice sessions. This pedal is in as new condition. ]]></description>
+<dc:date>2015-06-02T17:03:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5055214590.html</dc:source>
+<dc:title><![CDATA[DigiTech BP-355 Bass Effects Pedal (West Ashley) &#x0024;99]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01111_lSqfEWikI9F_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-02T17:03:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5055010580.html">
+<title><![CDATA[Epiphone Jack cassady bass guitar from Gibson (Summerville) &#x0024;400]]></title>
+<link>http://charleston.craigslist.org/msg/5055010580.html</link>
+<description><![CDATA[Epiphone Jack cassady Bass guitar in Metallic Gold in excellent shape! This color is starting to become a rare find. This semi hollowbody Plays like a dream & has that vintage vibe. It's used in Paul mccartneys band for its versatility! One of the be [...]]]></description>
+<dc:date>2015-06-02T15:10:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5055010580.html</dc:source>
+<dc:title><![CDATA[Epiphone Jack cassady bass guitar from Gibson (Summerville) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00G0G_4caTrBwdGC6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-02T15:10:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5054234621.html">
+<title><![CDATA[DigiTech BP-355 Bass Effects Pedal (West Ashley) &#x0024;99]]></title>
+<link>http://charleston.craigslist.org/msg/5054234621.html</link>
+<description><![CDATA[Digitech BP-355 Programmable Bass Effects Pedal. It is loaded with Drum beats, quality effects and models most popular amp sounds. It allows you to easily create loops for live performances and practice sessions. This pedal is in as new condition.]]></description>
+<dc:date>2015-06-02T06:13:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5054234621.html</dc:source>
+<dc:title><![CDATA[DigiTech BP-355 Bass Effects Pedal (West Ashley) &#x0024;99]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01111_lSqfEWikI9F_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-02T06:13:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5051661862.html">
+<title><![CDATA[Only one in existence- Acoustic Electric bass (West Ashley) &#x0024;1200]]></title>
+<link>http://charleston.craigslist.org/msg/5051661862.html</link>
+<description><![CDATA[I was a product manager for MBT International-- this is a sample acoustic electric bass that was designed but did not add to the product line-- 
+This is the ONLY ONE of its kind that EXISTS--- never been out of the house! 
+Made in Korea (before every [...]]]></description>
+<dc:date>2015-05-31T14:38:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5051661862.html</dc:source>
+<dc:title><![CDATA[Only one in existence- Acoustic Electric bass (West Ashley) &#x0024;1200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00B0B_dUOEEUhfCcr_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-05-31T14:38:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5030219872.html">
+<title><![CDATA[CARVIN B4 BASS GUITAR (moncks corner) &#x0024;650]]></title>
+<link>http://charleston.craigslist.org/msg/5030219872.html</link>
+<description><![CDATA[This is a custom ordered Carvin 4 string with drop D tuning switch in mint condition. Bought for studio/practice use, yet it was rarely ever played. Guitar still has same strings on it from factory. Guitar has powerful great sounding active electroni [...]]]></description>
+<dc:date>2015-05-30T10:41:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5030219872.html</dc:source>
+<dc:title><![CDATA[CARVIN B4 BASS GUITAR (moncks corner) &#x0024;650]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00T0T_k4ahq93uTF1_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-05-30T10:41:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/msg/5049639952.html">
+<title><![CDATA[PEAVEY  12 in BASS GUITAR SPEAKER (Summerville) &#x0024;25]]></title>
+<link>http://charleston.craigslist.org/msg/5049639952.html</link>
+<description><![CDATA[Peavey 12 inch 8 ohm Bass guitar speaker.This was pulled from Peavey TKO80 Guaranteed no issues.]]></description>
+<dc:date>2015-05-30T08:28:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/msg/5049639952.html</dc:source>
+<dc:title><![CDATA[PEAVEY  12 in BASS GUITAR SPEAKER (Summerville) &#x0024;25]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00p0p_4DVr2LWFUiE_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-05-30T08:28:06-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

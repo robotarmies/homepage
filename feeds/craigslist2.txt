@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://charleston.craigslist.org/search/mca?format=rss&#x26;amp;hasPic=1&#x26;amp;maxAsk=2000&#x26;amp;minAsk=400&#x26;amp;srchType=A&#x26;amp;format=rss">
+<title>craigslist charleston | motorcycles/scooters search </title>
+<link>https://charleston.craigslist.org/search/mca?hasPic=1&#x26;amp;maxAsk=2000&#x26;amp;minAsk=400&#x26;amp;srchType=A</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://charleston.craigslist.org/search/mca?format=rss&#x26;amp;hasPic=1&#x26;amp;maxAsk=2000&#x26;amp;minAsk=400&#x26;amp;srchType=A&#x26;amp;format=rss</dc:source>
+<dc:title>craigslist charleston | motorcycles/scooters search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2015-06-15T21:36:24-04:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5076230043.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5066142936.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcd/5076054209.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5062977384.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5052000601.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5030195890.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5075805852.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5054789696.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5075728069.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5075690873.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5032659535.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcd/5075354929.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcd/5071502146.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5066088282.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5074982492.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5067800664.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5074243188.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5041425481.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5073751497.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5038476060.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5073298422.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5055578678.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5073080364.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5044791150.html" />
+  <rdf:li rdf:resource="http://charleston.craigslist.org/mcy/5067475195.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://charleston.craigslist.org/mcy/5076230043.html">
+<title><![CDATA[Moped, I get around. (Summerville) &#x0024;400]]></title>
+<link>http://charleston.craigslist.org/mcy/5076230043.html</link>
+<description><![CDATA[Im asking for 400 or best offer. New tires, all of the lights work.]]></description>
+<dc:date>2015-06-15T19:26:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5076230043.html</dc:source>
+<dc:title><![CDATA[Moped, I get around. (Summerville) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01717_17qOC2GbJMz_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T19:26:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5066142936.html">
+<title><![CDATA[2002 HONDA SHADOW VLX600 CLEAN! (LADSON SC) &#x0024;1900]]></title>
+<link>http://charleston.craigslist.org/mcy/5066142936.html</link>
+<description><![CDATA[REDUCED "AGAIN" ONLY 1900 obo. SELLING MY VERY CLEAN SHADOW VLX 600 SO I CAN BUY A TRUCK OR WOULD NEVER SELL IT. I GOT IT FROM A ONE OWNER YOUNG LADY WHO BOUGHT IT NEW . ITS BEEN PERFECTLY MAINTAINED. HAS FRESH OIL CHANGE NEW PLUGS , TIRES, BATTERY.  [...]]]></description>
+<dc:date>2015-06-15T19:16:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5066142936.html</dc:source>
+<dc:title><![CDATA[2002 HONDA SHADOW VLX600 CLEAN! (LADSON SC) &#x0024;1900]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00u0u_5Q6C1dij6Xu_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T19:16:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcd/5076054209.html">
+<title><![CDATA[MOPED SCOOTER AND VESPA SALE SERVICE PARTS (Moped City) &#x0024;749]]></title>
+<link>http://charleston.craigslist.org/mcd/5076054209.html</link>
+<description><![CDATA[MOPEDS IN CHARLESTON ARE AT MOPED CITY 
+Legal SC Mopeds start at just $749 plus tax and tag. 
+We carry the most reliable mopeds backed by the best warranty in Charleston. 
+
+ <a href="/fb/chs/mcd/5076054209" class="showcontact" title="click to show contact info">show contact info</a>
+
+WE CARRY A FULL LINE OF HIGH QUALITY, AFFORDABLE MOPEDS AND SCOO [...]]]></description>
+<dc:date>2015-06-15T17:50:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcd/5076054209.html</dc:source>
+<dc:title><![CDATA[MOPED SCOOTER AND VESPA SALE SERVICE PARTS (Moped City) &#x0024;749]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00000_bmVbtAJlLzg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T17:50:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5062977384.html">
+<title><![CDATA[2003 Suzuki RM 125 Dirtbike (Summerville) &#x0024;1500]]></title>
+<link>http://charleston.craigslist.org/mcy/5062977384.html</link>
+<description><![CDATA[RM 125 with LOTS of aftermarket items. (seat, shocks, skid plate, handlebars, sprocket, rims, decals, bark busters, exhaust) Bike has 53 hours on hour meter. Runs Great/starts 1st or second kick every time. Very Fast. 2 stroke. ]]></description>
+<dc:date>2015-06-15T16:57:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5062977384.html</dc:source>
+<dc:title><![CDATA[2003 Suzuki RM 125 Dirtbike (Summerville) &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00606_eX9RfATMDyI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T16:57:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5052000601.html">
+<title><![CDATA[Yamaha YZ250F (myrtle Beach) &#x0024;2000]]></title>
+<link>http://charleston.craigslist.org/mcy/5052000601.html</link>
+<description><![CDATA[Yamaha YZ250F In Excellent Condition! All original and Meticulously maintained! Please only call if you have the cash to buy it! Sorry no pics! Its blue in color! I have original bill of sale! Sold for $6,300.00 new! 2,000 firm. This is the best deal [...]]]></description>
+<dc:date>2015-06-15T16:37:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5052000601.html</dc:source>
+<dc:title><![CDATA[Yamaha YZ250F (myrtle Beach) &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Y0Y_aPaZvyRVP4Z_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T16:37:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5030195890.html">
+<title><![CDATA[Motorcycle Trailer Holds 3 bikes and comes with ramp (Goose Creek) &#x0024;400]]></title>
+<link>http://charleston.craigslist.org/mcy/5030195890.html</link>
+<description><![CDATA[Like the title says this is a nice little 3 bike trailer, I just took it to Florida and back and bought it for the sole purpose of that trip. All of the lights work and it pulls great. PRICE IS FIRM!]]></description>
+<dc:date>2015-06-15T16:07:21-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5030195890.html</dc:source>
+<dc:title><![CDATA[Motorcycle Trailer Holds 3 bikes and comes with ramp (Goose Creek) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00R0R_1X9xuKvSWhW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T16:07:21-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5075805852.html">
+<title><![CDATA[1974 Kawasaki z1 900 (Goose creek) &#x0024;600]]></title>
+<link>http://charleston.craigslist.org/mcy/5075805852.html</link>
+<description><![CDATA[I have a 1974 kawasaki z1 900. Swing arm, frame and all tins. No front end or motor. Have 1 rim. Bike is a good project for a sweet cafe racer. Tins are in good shape. Have seat also. Gas tank has rust but can be reglazed. I'm open to any offers or t [...]]]></description>
+<dc:date>2015-06-15T15:25:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5075805852.html</dc:source>
+<dc:title><![CDATA[1974 Kawasaki z1 900 (Goose creek) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00808_1gAZbHqp1br_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T15:25:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5054789696.html">
+<title><![CDATA[Beamer 2 Scooter (walterboro) &#x0024;400]]></title>
+<link>http://charleston.craigslist.org/mcy/5054789696.html</link>
+<description><![CDATA[2 stroke, very quick, new drive belt, 3429 miles 
+ <a href="/fb/chs/mcy/5054789696" class="showcontact" title="click to show contact info">show contact info</a>
+]]></description>
+<dc:date>2015-06-15T14:49:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5054789696.html</dc:source>
+<dc:title><![CDATA[Beamer 2 Scooter (walterboro) &#x0024;400]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00S0S_doxGlldgJOH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T14:49:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5075728069.html">
+<title><![CDATA[CBR 600rr -1500 (Ladson) &#x0024;1500]]></title>
+<link>http://charleston.craigslist.org/mcy/5075728069.html</link>
+<description><![CDATA[I have a 2006 CBR600rr im selli g for 1500 lost title but its clean no tags bike runs great only thing is I popped the chain and it busted a hose in the radiator simple fix but bike allso needs farrings, new rear break line, windshield and break hand [...]]]></description>
+<dc:date>2015-06-15T14:47:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5075728069.html</dc:source>
+<dc:title><![CDATA[CBR 600rr -1500 (Ladson) &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00U0U_gnIDO14p2io_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T14:47:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5075690873.html">
+<title><![CDATA[96 yzf600r (mt pleasant) &#x0024;1300]]></title>
+<link>http://charleston.craigslist.org/mcy/5075690873.html</link>
+<description><![CDATA[96 yzf600r, runs but needs new fuel pump and throttle tube and some cosmetic parts]]></description>
+<dc:date>2015-06-15T14:29:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5075690873.html</dc:source>
+<dc:title><![CDATA[96 yzf600r (mt pleasant) &#x0024;1300]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01212_ksG9EGs3Nz3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T14:29:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5032659535.html">
+<title><![CDATA[2009 YAMAHA VINO SCOOTER/125CC (charleston) &#x0024;1600]]></title>
+<link>http://charleston.craigslist.org/mcy/5032659535.html</link>
+<description><![CDATA[2009 YAMAHA VINO 125CC SCOOTER . IN EXECELLENT CONDITION, RUNS LIKE A YAMAHA/// CLEAN S.C. TITLE //// I HAVE WINSHEILD AND EXTRA 2 NEW BELTS FOR THIS BAD BOY [ READY TO DRIVE OFF!!!!!] PHONE CALLS ONLY 843 SEVEN 2 SEVEN 5 7 FIVE ONE]]></description>
+<dc:date>2015-06-15T12:50:14-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5032659535.html</dc:source>
+<dc:title><![CDATA[2009 YAMAHA VINO SCOOTER/125CC (charleston) &#x0024;1600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00909_6h0FBsSdP4W_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T12:50:14-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcd/5075354929.html">
+<title><![CDATA[2015 Kymco Agility 50™ Single-Cylinder 49 cc (INTERSTATE CYCLE) &#x0024;1470]]></title>
+<link>http://charleston.craigslist.org/mcd/5075354929.html</link>
+<description><![CDATA[Interstate Cycle Ask for: Sales Department &#9742;&nbsp;
+ <a href="/fb/chs/mcd/5075354929" class="showcontact" title="click to show contact info">show contact info</a>
+3265 Charlotte Highway Mooresville , NC 28117 Interstate Cycle 3265 Charlotte Highway Mooresville , NC 28117 Ask for: Sales Department Sales Department: 
+ <a href="/fb/chs/mcd/5075354929" class="showcontact" title="click to show contact info">show contact info</a>
+A27FBAFAEA464DB [...]]]></description>
+<dc:date>2015-06-15T12:00:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcd/5075354929.html</dc:source>
+<dc:title><![CDATA[2015 Kymco Agility 50™ Single-Cylinder 49 cc (INTERSTATE CYCLE) &#x0024;1470]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00101_dvlKDUSMPXB_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T12:00:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcd/5071502146.html">
+<title><![CDATA[2008 Honda CB250 Nighthawk (Stokes Honda North) &#x0024;2000]]></title>
+<link>http://charleston.craigslist.org/mcd/5071502146.html</link>
+<description><![CDATA[Clean low mile starter bike in great condition. $2000 This is an out the door price includes all tax, tags and fee's.]]></description>
+<dc:date>2015-06-15T09:44:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcd/5071502146.html</dc:source>
+<dc:title><![CDATA[2008 Honda CB250 Nighthawk (Stokes Honda North) &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00y0y_5w3hV48JxYT_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T09:44:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5066088282.html">
+<title><![CDATA[96 honda cr500 (Mt pleasant) &#x0024;2000]]></title>
+<link>http://charleston.craigslist.org/mcy/5066088282.html</link>
+<description><![CDATA[96 honda cr500 with enduro tank, ready to ride]]></description>
+<dc:date>2015-06-15T09:26:28-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5066088282.html</dc:source>
+<dc:title><![CDATA[96 honda cr500 (Mt pleasant) &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00S0S_cJS3TEyLooy_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T09:26:28-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5074982492.html">
+<title><![CDATA[@-_-_-_-@_-_-_-_- 2011 KAWASAKI NINJA -_-_-_-@_-_-_-_-@ &#x0024;1500]]></title>
+<link>http://charleston.craigslist.org/mcy/5074982492.html</link>
+<description><![CDATA[Kawasaki Ninja runs great. Senior owned and fun to ride. Good Dunlop tires and smooth shaft drive. Needs nothing ready to ride. Recent full tune-up and oil change. Includes tall back rest for passenger and luggage rack. Garage kept and covered. Hard  [...]]]></description>
+<dc:date>2015-06-15T09:07:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5074982492.html</dc:source>
+<dc:title><![CDATA[@-_-_-_-@_-_-_-_- 2011 KAWASAKI NINJA -_-_-_-@_-_-_-_-@ &#x0024;1500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00A0A_9Lqwo1lYDwa_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-15T09:07:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5067800664.html">
+<title><![CDATA[2014 Gator &#x0024;675]]></title>
+<link>http://charleston.craigslist.org/mcy/5067800664.html</link>
+<description><![CDATA[2014 Jonway Gator for sale 700 miles on it. Runs great. email for questions. I am willing to negotiate on the price. This is still avalable. I lowered the price to $675.00 BO]]></description>
+<dc:date>2015-06-14T18:45:16-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5067800664.html</dc:source>
+<dc:title><![CDATA[2014 Gator &#x0024;675]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00O0O_kkQ59t8P2Nb_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T18:45:16-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5074243188.html">
+<title><![CDATA[golf cart (goose creek) &#x0024;1200]]></title>
+<link>http://charleston.craigslist.org/mcy/5074243188.html</link>
+<description><![CDATA[Asking 1200.00 please text or call me if interested, just put new batteries in 
+
+ <a href="/fb/chs/mcy/5074243188" class="showcontact" title="click to show contact info">show contact info</a>
+]]></description>
+<dc:date>2015-06-14T16:10:44-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5074243188.html</dc:source>
+<dc:title><![CDATA[golf cart (goose creek) &#x0024;1200]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00202_k3foDRZ4Die_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T16:10:44-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5041425481.html">
+<title><![CDATA[Fully custom Honda metro &#x0024;800]]></title>
+<link>http://charleston.craigslist.org/mcy/5041425481.html</link>
+<description><![CDATA[08 custom Honda metro slammed stretched fatty tire kit HID headlights LED tail lights cranks on first try every time would like to sale for at least 800or I'll keep it head turner and very fun to drive call or txt 
+ <a href="/fb/chs/mcy/5041425481" class="showcontact" title="click to show contact info">show contact info</a>
+]]></description>
+<dc:date>2015-06-14T11:02:19-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5041425481.html</dc:source>
+<dc:title><![CDATA[Fully custom Honda metro &#x0024;800]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00g0g_jfxvBudyD0n_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T11:02:19-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5073751497.html">
+<title><![CDATA[scooter for sale (Goose Creek) &#x0024;500]]></title>
+<link>http://charleston.craigslist.org/mcy/5073751497.html</link>
+<description><![CDATA[Electric scooter,runs great, garage kept. New battery pack]]></description>
+<dc:date>2015-06-14T10:59:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5073751497.html</dc:source>
+<dc:title><![CDATA[scooter for sale (Goose Creek) &#x0024;500]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Y0Y_3xY6hA9RwQs_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T10:59:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5038476060.html">
+<title><![CDATA[1994 Suzuki Intruder 1400 (Summerville, SC) &#x0024;2000]]></title>
+<link>http://charleston.craigslist.org/mcy/5038476060.html</link>
+<description><![CDATA[PRICE REDUCED!!!! 
+New battery and rebuilt carbs and title in hand 
+Comes with original manual 
+Ready to roll 
+This is a big bike! Runs good! 
+Call or text 
+ <a href="/fb/chs/mcy/5038476060" class="showcontact" title="click to show contact info">show contact info</a>
+]]></description>
+<dc:date>2015-06-14T00:05:11-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5038476060.html</dc:source>
+<dc:title><![CDATA[1994 Suzuki Intruder 1400 (Summerville, SC) &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01313_hvwsQEi7aUS_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-14T00:05:11-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5073298422.html">
+<title><![CDATA[MOPED FOR SALE (Smoaks) &#x0024;600]]></title>
+<link>http://charleston.craigslist.org/mcy/5073298422.html</link>
+<description><![CDATA[JM Star Power Sports 
+2011 MD50QT-3 
+598 LBS GVWR 
+155 Miles on Odometer]]></description>
+<dc:date>2015-06-13T21:57:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5073298422.html</dc:source>
+<dc:title><![CDATA[MOPED FOR SALE (Smoaks) &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00202_bhuoVRBqfp2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T21:57:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5055578678.html">
+<title><![CDATA[1991 Honda ST1100 (Charleston, SC) &#x0024;2000]]></title>
+<link>http://charleston.craigslist.org/mcy/5055578678.html</link>
+<description><![CDATA[1991 ST1100 Honda Pan European. 91 K miles but will increase slightly as I still use it to commute to work. She averages 45 mpg. The first owner was a Honda mechanic. The second was a German engineer. I am the third. I have enjoyed her for over 4 yea [...]]]></description>
+<dc:date>2015-06-13T19:48:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5055578678.html</dc:source>
+<dc:title><![CDATA[1991 Honda ST1100 (Charleston, SC) &#x0024;2000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00h0h_l6a50wZX8UK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T19:48:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5073080364.html">
+<title><![CDATA[2015 Bashan (North Charleston) &#x0024;850]]></title>
+<link>http://charleston.craigslist.org/mcy/5073080364.html</link>
+<description><![CDATA[Hello i have a 2015 scooter .i have had it less then a month.its house kept.still brand new from the pictures you can see.Its runs like a champ .It has 003527 on the miles.i do drive it to work tho sometimes so miles may go up.And sometime i leave at [...]]]></description>
+<dc:date>2015-06-13T18:36:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5073080364.html</dc:source>
+<dc:title><![CDATA[2015 Bashan (North Charleston) &#x0024;850]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00s0s_eKN8YivBgiI_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T18:36:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5044791150.html">
+<title><![CDATA[2011 Wasp Scooter (West Ashley) &#x0024;1000]]></title>
+<link>http://charleston.craigslist.org/mcy/5044791150.html</link>
+<description><![CDATA[Like new Kiaway Wasp Moped Pro-XR - Blue, very cool looking 
+Only 588 Miles (I didn't drive it that much), runs great! 
+Price is $1000 but negotiable (Paid $1350 for it 2 years ago) and comes with the SC DOT "Moped" tag 
+Please reply to the email. 
+M [...]]]></description>
+<dc:date>2015-06-13T12:44:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5044791150.html</dc:source>
+<dc:title><![CDATA[2011 Wasp Scooter (West Ashley) &#x0024;1000]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00F0F_7psaeFpcj0o_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T12:44:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://charleston.craigslist.org/mcy/5067475195.html">
+<title><![CDATA[2013 Tao Tao &#x0024;600]]></title>
+<link>http://charleston.craigslist.org/mcy/5067475195.html</link>
+<description><![CDATA[2013 Red Tao Tao good condition, needs a front tire ($35) 49 cc. Looks just like this one.]]></description>
+<dc:date>2015-06-13T11:43:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2015 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://charleston.craigslist.org/mcy/5067475195.html</dc:source>
+<dc:title><![CDATA[2013 Tao Tao &#x0024;600]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00j0j_iMsqnfU5A2X_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-06-13T11:43:33-04:00</dcterms:issued>
+</item>
+</rdf:RDF>

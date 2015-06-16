@@ -116,7 +116,7 @@
                     <i class="service-icon fa fa-motorcycle cl-icon"></i>
                     <h4 class="cl-feed">Motorcycles</h4>
                     <div class="craigslist feed">
-                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mca?hasPic=1&maxAsk=2000&minAsk=400&srchType=A&format=rss", 15); ?>
+                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mca?hasPic=1&maxAsk=2000&minAsk=400&srchType=A&format=rss", 15, 2); ?>
                     </div>
                 </div>
             </div>
@@ -144,7 +144,7 @@
         <div class="row">
             <div class="col-md-9 col-md-offset-2 text-center">
                 <div class="service-item">
-                    <?php foreach ($core->getNasaImage() as $image){ echo "<img class='nasa' src='$image'/>";} ?>
+                    <?php foreach ($core->getNasaImage('http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss') as $image){ echo "<img class='nasa' src='$image'/>";} ?>
                 </div>
             </div>
         </div>

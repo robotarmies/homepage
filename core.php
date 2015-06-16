@@ -21,7 +21,21 @@ class Homepage_Core_Functions {
         return "img/bg/".$bg_array[array_rand($bg_array)];
     }
 
-    public function getCLFeed($feed_url, $count = 100) {
+    public function cacheFeed($feed_url = 'http://robotarmies.com', $name = 'feed.txt') {
+        $content = file_get_contents($feed_url);
+        $dir = 'feeds/';
+        //open the file
+        $file = fopen($dir.$name, "w+");
+        //update the file
+        $writeFile = fwrite($file, $content);
+        //close and save
+        fclose($file);
+    }
+
+    public function getCLFeed($feed_url, $count = 100, $next = null, $cache = true) {
+        if ($cache == true){
+            $feed_url = 'feeds/craigslist'.$next.'.txt';
+        }
         $content = file_get_contents($feed_url);
         $x = new SimpleXmlElement($content);
         echo "<ul>";
@@ -36,10 +50,12 @@ class Homepage_Core_Functions {
         echo "</ul>";
     }
 
-    public function getNasaImage ($count = 20) {
+    public function getNasaImage ($url = null, $count = 20, $cache = true) {
         $i = 0;
         $image = array();
-        $url = 'http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss';
+        if ($cache == true){
+            $url = 'feeds/nasa_images.txt';
+        }
         $content = file_get_contents($url);
         $xml = new SimpleXmlElement($content);
         foreach ($xml->channel->item as $item) {
@@ -51,9 +67,12 @@ class Homepage_Core_Functions {
         return $image;
     }
 
-    public function getBStalkFeed($feed_url, $count = 10)
+    public function getBStalkFeed($feed_url, $count = 10, $cache = true)
     {
         try {
+            if ($cache == true){
+                $feed_url = 'feeds/beanstalk.txt';
+            }
             $content = file_get_contents($feed_url);
             $x = new SimpleXmlElement($content);
             echo "<ul>";

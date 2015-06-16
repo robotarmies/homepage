@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Image of the Day</title>
+ <description>The latest NASA &quot;Image of the Day&quot; image.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss" />
+ <language>en-us</language>
+ <managingEditor>yvette.smith-1@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+ <item> <title>Stars and Stripes From the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/stars-and-stripes-from-the-international-space-station</link>
+ <description>Celebrating Flag Day on June 14, 2015, NASA astronaut Scott Kelly took this photograph in the cupola of the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/11537924_490744361082490_7458474404062351799_o.jpg" length="230874" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/stars-and-stripes-from-the-international-space-station</guid>
+ <pubDate>Mon, 15 Jun 2015 10:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Meeting the Neighbors</title>
+ <link>http://www.nasa.gov/image-feature/goddard/hubble-meeting-the-neighbors</link>
+ <description>The sphere of space surrounding our galaxy is known as the Local Volume, a region some 35 million light-years in diameter and home to several hundred known galaxies. The subject of this new NASA/ESA Hubble Space Telescope image, a beautiful dwarf irregular galaxy known as PGC 18431, is one of these galaxies.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_friday_06122015.jpg" length="157393" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/hubble-meeting-the-neighbors</guid>
+ <pubDate>Fri, 12 Jun 2015 09:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 43 Soyuz Landing</title>
+ <link>http://www.nasa.gov/image-feature/expedition-43-soyuz-landing</link>
+ <description>The Soyuz TMA-15M spacecraft is seen as it lands with Expedition 43 commander Terry Virts of NASA, cosmonaut Anton Shkaplerov of the Russian Federal Space Agency (Roscosmos), and Italian astronaut Samantha Cristoforetti from the European Space Agency (ESA) near the town of Zhezkazgan, Kazakhstan on Thursday, June 11, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/18521294330_d24d842195_o.jpg" length="1611951" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/expedition-43-soyuz-landing</guid>
+ <pubDate>Thu, 11 Jun 2015 11:46 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Lonely Galaxy Lost in Space</title>
+ <link>http://www.nasa.gov/image-feature/goddard/lonely-galaxy-lost-in-space</link>
+ <description>This galaxy, known as NGC 6503, has found itself in a lonely position, at the edge of a strangely empty patch of space called the Local Void.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble-lostinspace.jpg" length="3015620" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/lonely-galaxy-lost-in-space</guid>
+ <pubDate>Wed, 10 Jun 2015 09:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Tethys the Target</title>
+ <link>http://www.nasa.gov/jpl/cassini/pia18317/tethys-the-target</link>
+ <description>Like most moons in the solar system, Tethys is covered by impact craters. Some craters bear witness to incredibly violent events, such as the crater Odysseus (seen here at the right of the image). The image was taken in visible light with the Cassini spacecraft narrow-angle camera on April 11, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18317-1041.jpg" length="509081" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia18317/tethys-the-target</guid>
+ <pubDate>Tue, 09 Jun 2015 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Samantha Cristoforetti Prepares For the Journey Home</title>
+ <link>http://www.nasa.gov/image-feature/samantha-cristoforetti-prepares-for-the-journey-home</link>
+ <description>ESA astronaut Samantha Cristoforetti checks her Sokol pressure suit in preparation for the Expedition 43 crew&#039;s departure from the International Space Station after 6 1/2 months in space. Cristoforetti now holds the record for the longest single spaceflight for a woman, a record previously held by NASA astronaut Sunita Williiams.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/17413048009_1fe18898d5_o.jpg" length="2164023" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/samantha-cristoforetti-prepares-for-the-journey-home</guid>
+ <pubDate>Mon, 08 Jun 2015 11:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Fresh Crater Near Sirenum Fossae Region of Mars</title>
+ <link>http://www.nasa.gov/image-feature/fresh-crater-near-sirenum-fossae-region-of-mars</link>
+ <description>The  HiRISE camera aboard NASA&#039;s Mars Reconnaissance Orbiter acquired this closeup image of a &quot;fresh&quot; (on a geological scale, though quite old on a human scale) impact crater in the Sirenum Fossae region of Mars on March 30, 2015. This impact crater appears relatively recent as it has a sharp rim and well-preserved ejecta.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/esp_040663_1415.jpg" length="3867264" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/fresh-crater-near-sirenum-fossae-region-of-mars</guid>
+ <pubDate>Fri, 05 Jun 2015 10:44 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>June 4, 1965, Earth Observations From Gemini IV</title>
+ <link>http://www.nasa.gov/image-feature/june-4-1965-earth-observations-from-gemini-iv</link>
+ <description>This photograph of the Florida Straits and Grand Bahama Bank was taken during the Gemini IV mission during orbit no. 19, on June 4, 1965. The Gemini IV crew conducted scientific experiments, including photography of Earth&#039;s weather and terrain, for the remainder of their four-day mission following Ed White&#039;s historic spacewalk on June 3.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s65-32763.jpg" length="3394862" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/june-4-1965-earth-observations-from-gemini-iv</guid>
+ <pubDate>Thu, 04 Jun 2015 10:39 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Celebrates 50 Years of Spacewalking</title>
+ <link>http://www.nasa.gov/image-feature/nasa-celebrates-50-years-of-spacewalking</link>
+ <description>For 50 years, NASA has been &quot;suiting up&quot; for spacewalking. In this Feb. 7, 1984 photograph of the first untethered spacewalk, NASA astronaut Bruce McCandless is in the midst of the first &quot;field&quot; tryout of a nitrogen-propelled backpack device called the Manned Maneuvering Unit (MMU).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s84-27018.jpg" length="2267458" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-celebrates-50-years-of-spacewalking</guid>
+ <pubDate>Wed, 03 Jun 2015 09:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Shadow of Surveyor 1 on the Moon</title>
+ <link>http://www.nasa.gov/multimedia/imagegallery/image_feature_1477.html</link>
+ <description>Surveyor 1, the first of the Surveyor missions to make a successful soft landing, proved the validity of the spacecraft&#039;s design and landing technique. In addition to transmitting more than 11,000 pictures, Surveyor sent information on the bearing strength of the lunar soil, the radar reflectivity and temperature.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/388911main_PIA02976_full.jpg" length="602319" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/multimedia/imagegallery/image_feature_1477.html</guid>
+ <pubDate>Tue, 02 Jun 2015 12:25 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Low-Density Supersonic Decelerator Prepared For Second Flight Test</title>
+ <link>http://www.nasa.gov/image-feature/low-density-supersonic-decelerator-prepared-for-second-flight-test-0</link>
+ <description>The second flight test of NASA&#039;s Low-Density Supersonic Decelerator (LDSD) will be attempted on Tuesday, June 2, launching a rocket-powered, saucer-shaped test vehicle into near-space from the Pacific Missile Range Facility on the island of Kauai in Hawaii. At launch time, a giant balloon will carry the test vehicle to an altitude of 120,000 feet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/18052513548_f2fc14c3bd_o.jpg" length="3129272" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/low-density-supersonic-decelerator-prepared-for-second-flight-test-0</guid>
+ <pubDate>Mon, 01 Jun 2015 10:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Peers into the Most Crowded Place in the Milky Way</title>
+ <link>http://www.nasa.gov/image-feature/goddard/hubble-peers-into-the-most-crowded-place-in-the-milky-way</link>
+ <description>This NASA/ESA Hubble Space Telescope image presents the Arches Cluster, the densest known star cluster in the Milky Way.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_friday_05292015.jpg" length="538156" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/hubble-peers-into-the-most-crowded-place-in-the-milky-way</guid>
+ <pubDate>Fri, 29 May 2015 08:59 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Parachute Testing for NASA&#039;s InSight Mission</title>
+ <link>http://www.nasa.gov/jpl/pia19405/parachute-testing-for-nasas-insight-mission</link>
+ <description>This parachute testing for NASA&#039;s InSight mission to Mars was conducted inside the world&#039;s largest wind tunnel, at NASA Ames Research Center, Moffett Field, California, in February 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19405_insight_parachute_in_test_2-12-15_02.jpg" length="823574" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/pia19405/parachute-testing-for-nasas-insight-mission</guid>
+ <pubDate>Thu, 28 May 2015 09:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>View From an F-15D</title>
+ <link>http://www.nasa.gov/image-feature/view-from-an-f-15d</link>
+ <description>NASA pilot Jim Less and photographer Jim Ross pull their F-15D #897 aircraft away from a KC-135 refueling tanker. NASA is supporting the Edwards Air Force Base F-15 program with safety and photo chase expertise.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ed-15-0166-01.jpeg" length="3680171" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/view-from-an-f-15d</guid>
+ <pubDate>Wed, 27 May 2015 11:13 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Europa&#039;s Jupiter-Facing Hemisphere</title>
+ <link>http://www.nasa.gov/image-feature/europas-jupiter-facing-hemisphere</link>
+ <description>This 12-frame mosaic provides the highest resolution view ever obtained of the side of Jupiter&#039;s moon Europa that faces the giant planet. It was obtained on Nov. 25, 1999 by the camera onboard the Galileo spacecraft, a past NASA mission to Jupiter and its moons which ended in 2003.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia02528_0.jpg" length="306423" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/europas-jupiter-facing-hemisphere</guid>
+ <pubDate>Tue, 26 May 2015 10:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Coronal Loops Over a Sunspot Group</title>
+ <link>http://www.nasa.gov/image-feature/coronal-loops-over-a-sunspot-group</link>
+ <description>The Atmospheric Imaging Assembly (AIA) instrument on NASA&#039;s Solar Dynamics Observatory images the solar atmosphere in multiple wavelengths to link changes in the surface to interior changes.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sdo_0171_blos.jpeg" length="2151953" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/coronal-loops-over-a-sunspot-group</guid>
+ <pubDate>Fri, 22 May 2015 09:55 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpinSat Investigation Tests New Technology, Returns Data</title>
+ <link>http://www.nasa.gov/image-feature/spinsat-investigation-tests-new-technology-returns-data</link>
+ <description>Equipment and data from the SpinSat investigation returns to Earth today, May 21, 2015, with splashdown of the sixth SpaceX cargo resupply mission to the International Space Station. This Nov. 28, 2014 photograph by NASA astronaut Terry Virts captures the predeploy of SpinSat, which was launched into orbit from the station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss042e017768.jpg" length="2483322" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/spinsat-investigation-tests-new-technology-returns-data</guid>
+ <pubDate>Thu, 21 May 2015 11:26 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Advance of Hubbard Glacier</title>
+ <link>http://www.nasa.gov/image-feature/the-advance-of-hubbard-glacier</link>
+ <description>This image, acquired by the Operational Land Imager (OLI) on Landsat 8, shows Hubbard Glacier on July 22, 2014.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubbard_oli.png" length="1911029" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/the-advance-of-hubbard-glacier</guid>
+ <pubDate>Wed, 20 May 2015 10:22 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Journey to Space in a Vacuum Chamber</title>
+ <link>http://www.nasa.gov/image-feature/journey-to-space-in-a-vacuum-chamber</link>
+ <description>Supporting the testing of electric propulsion and power systems, VF-5 has the highest pumping speed of any electric propulsion test facility in the world.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/vac_chamber.jpg" length="3998967" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/journey-to-space-in-a-vacuum-chamber</guid>
+ <pubDate>Tue, 19 May 2015 09:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mount St. Helens at 35</title>
+ <link>http://www.nasa.gov/image-feature/mount-st-helens-at-35</link>
+ <description>On May 18, 1980, Mount St. Helens gave way to a cataclysmic flank collapse, avalanche, and explosion that killed 57 people and displaced many others. The event dramatically reshaped the volcano and surrounding land in southwest Washington.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/mtsthelens_oli_2015110_lrg.jpg" length="1347552" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/mount-st-helens-at-35</guid>
+ <pubDate>Mon, 18 May 2015 07:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronauts at Work on the International Space Station</title>
+ <link>http://www.nasa.gov/image-feature/astronauts-at-work-on-the-international-space-station</link>
+ <description>NASA astronauts Scott Kelly (left) and Terry Virts (right) work on a Carbon Dioxide Removal Assembly (CDRA) inside the station&#039;s Japanese Experiment Module.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/17639156045_5eed56855a_o.jpg" length="2372431" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronauts-at-work-on-the-international-space-station</guid>
+ <pubDate>Fri, 15 May 2015 11:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Green Aviation Project Tests Shape Changing Wing Flaps</title>
+ <link>http://www.nasa.gov/image-feature/green-aviation-project-tests-shape-changing-wing-flaps</link>
+ <description>A NASA F-15D flies chase for the G-III Adaptive Compliant Trailing Edge (ACTE) project. The ACTE experimental flight research project is a joint effort between NASA and the U.S. Air Force Research Laboratory to determine if advanced flexible trailing-edge wing flaps can both improve aircraft aerodynamic efficiency and reduce airport-area noise.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/flt034003536.jpeg" length="1425852" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/green-aviation-project-tests-shape-changing-wing-flaps</guid>
+ <pubDate>Thu, 14 May 2015 11:40 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>May 13, 1992, Record-Setting Spacewalk on Shuttle Endeavour&#039;s First Mission</title>
+ <link>http://www.nasa.gov/image-feature/may-13-1992-record-setting-spacewalk-on-shuttle-endeavours-first-mission</link>
+ <description>On May 13, 1992, following the successful capture of the Intelsat VI satellite, three astronauts continue moving the 4.5 ton communications satellite into the space shuttle Endeavour&#039;s cargo bay. The sections of Earth which form the backdrop for the scene are blanketed with thousands of square miles of clouds.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s49-91-029.jpg" length="7443045" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/may-13-1992-record-setting-spacewalk-on-shuttle-endeavours-first-mission</guid>
+ <pubDate>Wed, 13 May 2015 11:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Early Morning Sunrise Over the Grand Canyon</title>
+ <link>http://www.nasa.gov/image-feature/early-morning-sunrise-over-the-grand-canyon</link>
+ <description>From the International Space Station, NASA astronaut Terry Virts took this photograph of an early morning sunrise over the Grand Canyon and posted it to social media on May 10, 2015. Because the station completes each trip around the globe in about 92 minutes, the crew experiences 16 sunrises and sunsets each day.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/iss043e184614.jpg" length="2815161" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/early-morning-sunrise-over-the-grand-canyon</guid>
+ <pubDate>Tue, 12 May 2015 11:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Serene Saturn</title>
+ <link>http://www.nasa.gov/jpl/cassini/pia18314/serene-saturn</link>
+ <description>From a distance Saturn seems to exude an aura of serenity and peace.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia18314-1041.jpg" length="279742" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/jpl/cassini/pia18314/serene-saturn</guid>
+ <pubDate>Mon, 11 May 2015 10:09 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Cloudy Earth</title>
+ <link>http://www.nasa.gov/image-feature/cloudy-earth</link>
+ <description>Earth’s cloudy nature is unmistakable in this global cloud fraction map, based on data collected by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA&#039;s Aqua satellite. This version of the map shows an average of all of the satellite’s cloud observations between July 2002 and April 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/globalcldfr_amo_200207-201504_lrg.jpg" length="2084757" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/cloudy-earth</guid>
+ <pubDate>Fri, 08 May 2015 11:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Engineers Clean Mirror with Carbon Dioxide Snow</title>
+ <link>http://www.nasa.gov/image-feature/goddard/engineers-clean-mirror-with-carbon-dioxide-snow</link>
+ <description>Engineers are using carbon dioxide snow to clean James Webb Space Telescope&#039;s mirrors without scratching them.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/snowcleaning.jpg" length="2172855" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/engineers-clean-mirror-with-carbon-dioxide-snow</guid>
+ <pubDate>Thu, 07 May 2015 08:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Solar Dynamics Observatory Sees &#039;Cinco de Mayo&#039; Solar Flare</title>
+ <link>http://www.nasa.gov/image-feature/solar-dynamics-observatory-sees-cinco-de-mayo-solar-flare</link>
+ <description>NASA&#039;s Solar Dynamics Observatory, which watches the sun constantly, captured these images of a significant solar flare – as seen in the bright flash on the left – peaking at 6:11 p.m. EDT on May 5, 2015. Each image shows a different wavelength of extreme ultraviolet light that highlights a different temperature of material on the sun.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/sdo_views_of_may_5_2015_x-class_flare.jpg" length="6183772" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/solar-dynamics-observatory-sees-cinco-de-mayo-solar-flare</guid>
+ <pubDate>Wed, 06 May 2015 10:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Trajectory of Alan Shepard&#039;s Historic Flight</title>
+ <link>http://www.nasa.gov/multimedia/imagegallery/image_feature_1939.html</link>
+ <description>Fifty-four years ago on May 5, 1961 only 23 days after Yuri Gagarin of the then-Soviet Union became the first person in space, NASA astronaut Alan Shepard launched at 9:34 a.m. EDT aboard his Freedom 7 capsule powered by a Redstone booster to become the first American in space. His historic flight lasted 15 minutes, 28 seconds.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/images/542198main_IMG_0128-raw_full.jpg" length="1589908" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/multimedia/imagegallery/image_feature_1939.html</guid>
+ <pubDate>Tue, 05 May 2015 08:53 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mimas Stares Back</title>
+ <link>http://www.nasa.gov/mission_pages/cassini/multimedia/pia06654.html</link>
+ <description>The great eye of Saturn&#039;s moon Mimas, a 130-kilometer-wide (80-mile) impact crater called Herschel, stares out from the battered moon. Several individual ringlets within the F ring are resolved here, and the small moon Atlas is also seen faintly outside the main rings.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia06654.jpg" length="97237" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/mission_pages/cassini/multimedia/pia06654.html</guid>
+ <pubDate>Mon, 04 May 2015 10:48 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Ten-Engine Electric Plane Prototype Takes Off</title>
+ <link>http://www.nasa.gov/image-feature/ten-engine-electric-plane-prototype-takes-off</link>
+ <description>A team at NASA&#039;s Langley Research Center is developing a concept of a battery-powered plane that has 10 engines and can take off like a helicopter and fly efficiently like an aircraft. The prototype, called Greased Lightning or GL-10, is currently in the design and testing phase.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/gl10-hover-02.jpg" length="2139561" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/ten-engine-electric-plane-prototype-takes-off</guid>
+ <pubDate>Fri, 01 May 2015 11:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Overview of MESSENGER Spacecraft&#039;s Impact Region on Mercury</title>
+ <link>http://www.nasa.gov/image-feature/overview-of-messenger-spacecrafts-impact-region-on-mercury</link>
+ <description>On April 30th, this region of Mercury&#039;s surface will have a new crater! Traveling at 3.91 kilometers per second (over 8,700 miles per hour), the MESSENGER spacecraft will collide with Mercury&#039;s surface, creating a crater estimated to be 16 meters (52 feet) in diameter.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19444.jpg" length="276680" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/overview-of-messenger-spacecrafts-impact-region-on-mercury</guid>
+ <pubDate>Thu, 30 Apr 2015 10:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>April 29, 1990, Shuttle Discovery Lands Following Hubble Deployment Mission</title>
+ <link>http://www.nasa.gov/image-feature/april-29-1990-shuttle-discovery-lands-following-hubble-deployment-mission</link>
+ <description>On April 29, 1990, the Space Shuttle Discovery approaches for landing on a concrete runway at Edwards Air Force Base to complete a highly successful five-day mission during which the Hubble Space Telescope was released into orbit.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s31-s-131.jpg" length="3093034" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/april-29-1990-shuttle-discovery-lands-following-hubble-deployment-mission</guid>
+ <pubDate>Wed, 29 Apr 2015 09:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Astronaut Scott Kelly Speaks at Shuttle Enterprise Dedication Ceremony</title>
+ <link>http://www.nasa.gov/image-feature/astronaut-scott-kelly-speaks-at-shuttle-enterprise-dedication-ceremony</link>
+ <description>NASA astronaut Scott Kelly delivers remarks from onboard the International Space Station during the Space Shuttle Enterprise dedication ceremony Monday, April 27, 2015, at the Intrepid Sea, Air &amp; Space Museum in New York City. Enterprise was dedicated to the fallen crews who gave their lives in pursuit of space exploration.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/17293433215_720c0c9028_o.jpg" length="6163574" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/astronaut-scott-kelly-speaks-at-shuttle-enterprise-dedication-ceremony</guid>
+ <pubDate>Tue, 28 Apr 2015 17:32 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Unmasking the Secrets of Mercury</title>
+ <link>http://www.nasa.gov/image-feature/unmasking-the-secrets-of-mercury</link>
+ <description>To learn more about the minerals and surface processes on Mercury, instruments aboard NASA&#039;s MESSENGER spacecraft have been collecting surface measurements since MESSENGER entered Mercury orbit on March 17, 2011.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19419.jpg" length="1337760" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/unmasking-the-secrets-of-mercury</guid>
+ <pubDate>Mon, 27 Apr 2015 09:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>April 25, 1990, Deployment of the Hubble Space Telescope</title>
+ <link>http://www.nasa.gov/image-feature/april-25-1990-deployment-of-the-hubble-space-telescope</link>
+ <description>In this April 25, 1990, photograph taken by the crew of the STS-31 space shuttle mission, the Hubble Space Telescope is suspended above shuttle Discovery&#039;s cargo bay some 332 nautical miles above Earth.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s31-71-095.jpg" length="2737114" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/april-25-1990-deployment-of-the-hubble-space-telescope</guid>
+ <pubDate>Fri, 24 Apr 2015 10:51 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Celestial Fireworks</title>
+ <link>http://www.nasa.gov/image-feature/celestial-fireworks</link>
+ <description>The brilliant tapestry of young stars flaring to life resemble a glittering fireworks display in the 25th anniversary NASA Hubble Space Telescope image, released to commemorate a quarter century of exploring the solar system and beyond since its launch on April 24, 1990.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/15-066.png" length="4756112" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/celestial-fireworks</guid>
+ <pubDate>Thu, 23 Apr 2015 09:27 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>NASA Tail Technology Could Someday Reduce Airplane Fuel Use</title>
+ <link>http://www.nasa.gov/image-feature/nasa-tail-technology-could-someday-reduce-airplane-fuel-use</link>
+ <description>In this photo taken from a chase plane, the Boeing ecoDemonstrator 757 flight test airplane --with NASA&#039;s Active Flow Control technology installed on the tail -- makes a final approach to King County Boeing Field in Seattle, Washington.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/boeing_757_afc_conclusion_jdp_1837.jpg" length="4735485" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/nasa-tail-technology-could-someday-reduce-airplane-fuel-use</guid>
+ <pubDate>Wed, 22 Apr 2015 09:07 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>A Sky View of Earth From Suomi NPP</title>
+ <link>http://www.nasa.gov/image-feature/goddard/a-sky-view-of-earth-from-suomi-npp</link>
+ <description>This composite image of southern Africa and the surrounding oceans was captured by six orbits of the NASA/NOAA Suomi National Polar-orbiting Partnership spacecraft on April 9, 2015, by the Visible Infrared Imaging Radiometer Suite (VIIRS) instrument. Tropical Cyclone Joalane can be seen over the Indian Ocean.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/viirs_9apr2015.jpg" length="17299459" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/goddard/a-sky-view-of-earth-from-suomi-npp</guid>
+ <pubDate>Tue, 21 Apr 2015 13:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Reflecting on a Spacecraft Arrival</title>
+ <link>http://www.nasa.gov/image-feature/reflecting-on-a-spacecraft-arrival</link>
+ <description>NASA astronaut Scott Kelly, currently on a one-year mission on the International Space Station, posted this image of the successful capture of the SpaceX Dragon spacecraft with the space station&#039;s robotic arm.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/11092804_467976930025900_8900042576902394282_o.jpg" length="206335" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/image-feature/reflecting-on-a-spacecraft-arrival</guid>
+ <pubDate>Mon, 20 Apr 2015 10:08 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>White Dwarf May Have Shredded Passing Planet</title>
+ <link>http://www.nasa.gov/content/white-dwarf-may-have-shredded-passing-planet-0</link>
+ <description>In this Chandra image of ngc6388, researchers have found evidence that a white dwarf star may have ripped apart a planet as it came too close. When a star reaches its white dwarf stage, nearly all of the material from the star is packed inside a radius one hundredth that of the original star.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ngc6388.jpg" length="13275540" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/white-dwarf-may-have-shredded-passing-planet-0</guid>
+ <pubDate>Fri, 17 Apr 2015 10:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Multi-Utility Technology Testbed Aircraft On the Runway</title>
+ <link>http://www.nasa.gov/content/multi-utility-technology-testbed-aircraft-on-the-runway</link>
+ <description>The X-56A Multi-Utility Technology Testbed (MUTT) is greeted on an Edwards Air Force Base runway by a U.S. Air Force Research Laboratory (AFRL) team member.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/ed15-0104-78.jpg" length="542565" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/multi-utility-technology-testbed-aircraft-on-the-runway</guid>
+ <pubDate>Thu, 16 Apr 2015 10:43 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Honoring Jackie Robinson</title>
+ <link>http://www.nasa.gov/content/honoring-jackie-robinson</link>
+ <description>&quot;Honoring #JackieRobinson today! #42&quot; wrote NASA astronaut Terry Virts from the cupola of the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/128a7469.jpg" length="5409183" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/honoring-jackie-robinson</guid>
+ <pubDate>Wed, 15 Apr 2015 12:29 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>SpaceX Launches NASA Cargo and Research To International Space Station</title>
+ <link>http://www.nasa.gov/content/spacex-launches-nasa-cargo-and-research-to-international-space-station</link>
+ <description>A SpaceX Falcon 9 rocket lifts off from Space Launch Complex 40 at Cape Canaveral Air Force Station carrying the Dragon resupply spacecraft on the sixth commercial resupply services mission to the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16530254373_44f81bc317_o.jpg" length="3352812" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/spacex-launches-nasa-cargo-and-research-to-international-space-station</guid>
+ <pubDate>Tue, 14 Apr 2015 16:33 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Solar Arrays on the International Space Station</title>
+ <link>http://www.nasa.gov/content/solar-arrays-on-the-international-space-station</link>
+ <description>Expedition 43 Flight Engineer Samantha Cristoforetti of the European Space Agency (ESA) photographed the giant solar arrays on the International Space Station on Feb. 12, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16938569907_90b5c8a831_o.jpg" length="2073342" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/solar-arrays-on-the-international-space-station</guid>
+ <pubDate>Tue, 14 Apr 2015 11:28 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Mission Control, Houston, April 13, 1970</title>
+ <link>http://www.nasa.gov/content/mission-control-houston-april-13-1970</link>
+ <description>Apollo 13, NASA&#039;s third crewed mission to the moon, launched on April 11, 1970. Two days later, on April 13, a fault in the electrical system of one of the Service Module&#039;s oxygen tanks produced an explosion that caused both oxygen tanks to fail and also led to a loss of electrical power</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s70-35139.jpg" length="1589593" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/mission-control-houston-april-13-1970</guid>
+ <pubDate>Mon, 13 Apr 2015 11:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Layers and Dark Dunes on the Surface of Mars</title>
+ <link>http://www.nasa.gov/content/layers-and-dark-dunes-on-the-surface-of-mars</link>
+ <description>This image of a circular depression on the surface of Mars was acquired on Jan. 5, 2015 by the High Resolution Imaging Science Experiment (HiRISE) camera on NASA&#039;s Mars Reconnaissance Orbiter (MRO).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19358.jpg" length="1032950" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/layers-and-dark-dunes-on-the-surface-of-mars</guid>
+ <pubDate>Fri, 10 Apr 2015 11:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>The Mercury Astronauts</title>
+ <link>http://www.nasa.gov/content/the-mercury-astronauts</link>
+ <description>On April 9, 1959, NASA&#039;s first administrator, Dr. Keith Glennan, announced the names of the agency&#039;s first group of astronauts at a news conference in Washington, D.C.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/s63-18853_0.jpg" length="2149190" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/the-mercury-astronauts</guid>
+ <pubDate>Thu, 09 Apr 2015 12:19 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Sea Ice Off East Antarctica&#039;s Princess Astrid Coast</title>
+ <link>http://www.nasa.gov/content/sea-ice-off-east-antarcticas-princess-astrid-coast</link>
+ <description>On April 5, 2015, the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite acquired this natural-color image of sea ice off the coast of East Antarctica’s Princess Astrid Coast.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/antarctica_tmo_2015095_lrg.jpg" length="17066490" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/sea-ice-off-east-antarcticas-princess-astrid-coast</guid>
+ <pubDate>Wed, 08 Apr 2015 11:41 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Searching for Water in the Solar System and Beyond</title>
+ <link>http://www.nasa.gov/content/searching-for-water-in-the-solar-system-and-beyond</link>
+ <description>As NASA missions explore our solar system and search for new worlds, they are finding water in surprising places.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/15-033i1.jpg" length="2281699" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/searching-for-water-in-the-solar-system-and-beyond</guid>
+ <pubDate>Tue, 07 Apr 2015 14:31 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>International Space Station Flyover of Australia</title>
+ <link>http://www.nasa.gov/content/international-space-station-flyover-of-australia</link>
+ <description>From the International Space Station, NASA astronaut Scott Kelly took this photograph over Australia and posted it to social media on April 6, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/11127553_462870130536580_8621926794664070501_o.jpg" length="136186" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/international-space-station-flyover-of-australia</guid>
+ <pubDate>Mon, 06 Apr 2015 10:52 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Experimental Wing Tests Electric Propulsion Technologies</title>
+ <link>http://www.nasa.gov/content/experimental-wing-tests-electric-propulsion-technologies</link>
+ <description>Leading Edge Asynchronous Propeller Technology (LEAPTech) project researchers at NASA&#039;s Armstrong Flight Research Center are performing ground testing of a 31-foot-span, carbon composite wing section with 18 electric motors.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/dsc00225_heist_wing1.jpeg" length="244018" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/experimental-wing-tests-electric-propulsion-technologies</guid>
+ <pubDate>Fri, 03 Apr 2015 12:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Curiosity Sees Prominent Mineral Veins on Mount Sharp, Mars</title>
+ <link>http://www.nasa.gov/content/curiosity-sees-prominent-mineral-veins-on-mount-sharp-mars</link>
+ <description>This March 18, 2015 view from the Mast Camera (Mastcam) on NASA&#039;s Curiosity Mars rover shows a network of two-tone mineral veins at an area called &quot;Garden City&quot; on lower Mount Sharp.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/pia19161.jpg" length="1948684" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/curiosity-sees-prominent-mineral-veins-on-mount-sharp-mars</guid>
+ <pubDate>Thu, 02 Apr 2015 12:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Space Station Flies Over Super Typhoon Maysak</title>
+ <link>http://www.nasa.gov/content/space-station-flies-over-super-typhoon-maysak</link>
+ <description>Typhoon Maysak strengthened into a super typhoon on March 31, reaching Category 5 hurricane status on the Saffir-Simpson Wind Scale. ESA Astronaut Samantha Cristoforetti captured this image while flying over the weather system on board the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16997364525_f51c6d37c5_o.jpg" length="1392845" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/space-station-flies-over-super-typhoon-maysak</guid>
+ <pubDate>Wed, 01 Apr 2015 12:18 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Boarding the Soyuz Spacecraft on Launch Day</title>
+ <link>http://www.nasa.gov/content/boarding-the-soyuz-spacecraft-on-launch-day</link>
+ <description>Expedition 43 Russian cosmonaut Mikhail Kornienko of the Russian Federal Space Agency (Roscosmos), top, NASA astronaut Scott Kelly, center, and Russian cosmonaut Gennady Padalka of Roscosmos wave farewell as they board the Soyuz TMA-16M spacecraft ahead of their launch to the International Space Station, Friday, March 27, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16760273720_8223e5d57a_o.jpg" length="2998774" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/boarding-the-soyuz-spacecraft-on-launch-day</guid>
+ <pubDate>Fri, 27 Mar 2015 16:35 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>One-Year Crew Launches to International Space Station</title>
+ <link>http://www.nasa.gov/content/year-in-space-begins-with-soyuz-launch</link>
+ <description>Media photograph the Soyuz TMA-16M spacecraft as it launches to the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/201503280004hq.jpeg" length="5179210" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/year-in-space-begins-with-soyuz-launch</guid>
+ <pubDate>Fri, 27 Mar 2015 08:38 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Hubble Views a Galaxy on Edge</title>
+ <link>http://www.nasa.gov/content/hubble-views-a-galaxy-on-edge</link>
+ <description>This NASA/ESA Hubble Space Telescope image shows an edge-on view of the spiral galaxy NGC 5023.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hubble_friday_03272015.jpg" length="349205" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/hubble-views-a-galaxy-on-edge</guid>
+ <pubDate>Fri, 27 Mar 2015 06:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Pushing the Boundaries of Propelling Deep Space Missions</title>
+ <link>http://www.nasa.gov/content/pushing-the-boundaries-of-propelling-deep-space-missions-0</link>
+ <description>Solar Electric propulsion system will propel the first mission to redirect an asteroid.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/hall-thruster.jpg" length="5065154" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/pushing-the-boundaries-of-propelling-deep-space-missions-0</guid>
+ <pubDate>Thu, 26 Mar 2015 09:12 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Soyuz Spacecraft Rolled Out For Launch of One-Year Crew</title>
+ <link>http://www.nasa.gov/content/soyuz-spacecraft-rolled-out-for-launch-of-one-year-crew</link>
+ <description>The Soyuz TMA-16M spacecraft is seen after is was rolled out by train to the launch pad at the Baikonur Cosmodrome, Kazakhstan, Wednesday, March 25, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16305066323_e963705a27_o.jpg" length="1664325" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/soyuz-spacecraft-rolled-out-for-launch-of-one-year-crew</guid>
+ <pubDate>Thu, 26 Mar 2015 04:47 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+ <item> <title>Expedition 43 Soyuz Rolls Out for Launch</title>
+ <link>http://www.nasa.gov/content/expedition-43-soyuz-rolls-out-for-launch</link>
+ <description>The Soyuz TMA-16M spacecraft is rolled out by train to the launch pad at the Baikonur Cosmodrome, Kazakhstan, Wednesday, March 25, 2015.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/thumbnails/image/16923878331_35c0c8a8d1_o.jpg" length="3382835" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/content/expedition-43-soyuz-rolls-out-for-launch</guid>
+ <pubDate>Wed, 25 Mar 2015 07:00 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss">NASA Image of the Day</source>
+</item>
+</channel>
+</rss>
