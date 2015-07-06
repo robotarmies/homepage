@@ -118,7 +118,7 @@
                     <i class="service-icon fa fa-motorcycle cl-icon"></i>
                     <h4 class="cl-feed">Motorcycles</h4>
                     <div class="craigslist feed">
-                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mca?hasPic=1&query=cafe%20racer&srchType=A&format=rss", 15, 2); ?>
+                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mcy?hasPic=1&query=cafe%20racer&srchType=A&format=rss", 15, 2); ?>
                     </div>
                 </div>
             </div>
