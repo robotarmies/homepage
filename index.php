@@ -134,7 +134,7 @@
                     <i class="service-icon fa fa-cloud-upload cl-icon"></i>
                     <h4 class="cl-feed">Beanstalk</h4>
                     <div class="beanstalk feed">
-                        <?php $core->getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10); ?>
+                        <?php $core->getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10, false); ?>
                     </div>
                 </div>
             </div>
