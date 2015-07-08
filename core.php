@@ -84,9 +84,9 @@ class Homepage_Core_Functions {
                     $newContent = preg_replace("/[\n]+/", "", $entry->content);
                     $newContent = preg_replace("/<p/", "<div", $newContent);
                     $newContent = preg_replace("/p>/", "div>", $newContent);
-
-//        echo "<li>" . $date->format('F jS, Y') . " <a href='$link' title='$entry->title'>" . $entry->content . "</a></li>";
-                    echo "<li>" . $entry->title . "</li>";
+                    $title = strstr($entry->title, '/', true);
+//                    echo "<li>" . $title . "</li>";
+                    echo "<li>" . $date->format('F jS, Y') ." - " . (string)$entry->author->name . ": " . $title ."</li>";
                 }
                 $i++;
             }
