@@ -165,4 +165,7 @@
     <script type="text/javascript" src="js/jquery.simpleWeather.js"></script>
 
 </body>
+<footer>
+    <div class="footer">copyright © 2015 robot armies | ver 2.2.0</div>
+</footer>
 </html>
