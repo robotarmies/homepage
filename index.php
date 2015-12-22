@@ -1,6 +1,7 @@
 <?php
     require_once ('core.php');
     $core = new Homepage_Core_Functions();
+    error_reporting(0);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -126,21 +127,21 @@
         </div>
     </section>
 
-    <section id="work" class="container content-section text-center">
-        <div class="row">
-
-            <div class="col-md-12 text-left">
-                <div class="service-item">
-                    <i class="service-icon fa fa-cloud-upload cl-icon"></i>
-                    <h4 class="cl-feed">Beanstalk</h4>
-                    <div class="beanstalk feed">
-                        <?php $core->getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10, false); ?>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </section>
+<!--    <section id="work" class="container content-section text-center">-->
+<!--        <div class="row">-->
+<!---->
+<!--            <div class="col-md-12 text-left">-->
+<!--                <div class="service-item">-->
+<!--                    <i class="service-icon fa fa-cloud-upload cl-icon"></i>-->
+<!--                    <h4 class="cl-feed">Beanstalk</h4>-->
+<!--                    <div class="beanstalk feed">-->
+<!--                        --><?php //$core->getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10, false); ?>
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!---->
+<!--        </div>-->
+<!--    </section>-->
 <!--
     <section id="etc" class="container content-section text-center">
         <div class="row">
