@@ -112,4 +112,20 @@ class Homepage_Core_Functions {
             // done!
             return $results;
         }
+
+    public function getCurrentWeather() {
+        $json_string = file_get_contents("http://api.wunderground.com/api/3d9047991415094c/conditions/q/SC/Charleston.json");
+        $parsed_json = json_decode($json_string);
+        $location = $parsed_json->{'location'}->{'city'};
+        $temp_f = $parsed_json->{'current_observation'}->{'temp_f'};
+        //echo "Current temperature in ${location} is: ${temp_f}\n";
+    }
+
+    public function getForecast() {
+        $json_string = file_get_contents("http://api.wunderground.com/api/3d9047991415094c/forecast/q/SC/Charleston.json");
+        $parsed_json = json_decode($json_string);
+        $location = $parsed_json->{'location'}->{'city'};
+        $temp_f = $parsed_json->{'current_observation'}->{'temp_f'};
+        //echo "Current temperature in ${location} is: ${temp_f}\n";
+    }
 }
