@@ -1,7 +1,7 @@
 <?php
     require_once ('core.php');
     $core = new Homepage_Core_Functions();
-    error_reporting(0);
+    error_reporting(3);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -59,10 +59,10 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#feeds">Feeds</a>
+                        <a href="#work">Weather</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#work">Work</a>
+                        <a href="#feeds">Feeds</a>
                     </li>
 <!--                    <li class="page-scroll">-->
 <!--                        <a href="#ideas">Ideas</a>-->
@@ -102,6 +102,37 @@
         </div>
     </section>
 
+    <section id="work" class="container content-section text-center">
+        <div class="row">
+
+            <div class="col-md-12 text-left">
+                <div class="service-item">
+                    <i class="service-icon fa fa-cloud-upload cl-icon"></i>
+                    <h4 class="cl-feed">Weather</h4>
+                    <div class="feed">
+                        <?php
+                        $forecast = $core->getForecast();
+                        foreach ($forecast as $day){
+                            $low = $day->low->fahrenheit;
+                            $high = $day->high->fahrenheit;
+                            $results = $core->getOutfit($high,$low);
+
+                            echo "<div class='col-md-3'";
+                            echo "<strong>".$day->date->weekday."</strong> (<i>".$results['cond']."</i>)<br/>";
+                            foreach ($results['outfit'] as $article){
+                                echo "<div id='outfit_$article' class='outfit'></div>";
+                            }
+                            echo "</div>";
+                        }
+                        ?>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+
     <section id="feeds" class="container content-section text-center">
         <div class="row">
             <div class="col-md-6 text-left">
@@ -109,7 +140,7 @@
                     <i class="service-icon fa fa-music cl-icon"></i>
                     <h4 class="cl-feed">Instruments</h4>
                     <div class="craigslist feed">
-                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/msa?query=bass&srchType=A&format=rss", 15); ?>
+                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/msa?query=bass&srchType=A&format=rss", 25); ?>
                     </div>
                 </div>
             </div>
@@ -119,7 +150,7 @@
                     <i class="service-icon fa fa-motorcycle cl-icon"></i>
                     <h4 class="cl-feed">Motorcycles</h4>
                     <div class="craigslist feed">
-                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mcy?hasPic=1&query=cafe%20racer&srchType=A&format=rss", 15, 2); ?>
+                        <?php $core->getCLFeed("http://charleston.craigslist.org/search/mcy?hasPic=1&query=cafe%20racer&srchType=A&format=rss", 25, 2); ?>
                     </div>
                 </div>
             </div>
@@ -127,22 +158,6 @@
         </div>
     </section>
 
-<!--    <section id="work" class="container content-section text-center">-->
-<!--        <div class="row">-->
-<!---->
-<!--            <div class="col-md-12 text-left">-->
-<!--                <div class="service-item">-->
-<!--                    <i class="service-icon fa fa-cloud-upload cl-icon"></i>-->
-<!--                    <h4 class="cl-feed">Beanstalk</h4>-->
-<!--                    <div class="beanstalk feed">-->
-<!--                        --><?php //$core->getBstalkFeed("https://james@blueacorn.com:pass4james@blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2", 10, false); ?>
-<!--                    </div>-->
-<!--                </div>-->
-<!--            </div>-->
-<!---->
-<!--        </div>-->
-<!--    </section>-->
-<!--
     <section id="etc" class="container content-section text-center">
         <div class="row">
             <div class="col-md-9 col-md-offset-2 text-center">
@@ -152,7 +167,7 @@
             </div>
         </div>
     </section>
--->
+
     <!-- Core JavaScript Files -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>

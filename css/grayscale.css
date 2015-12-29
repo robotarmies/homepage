@@ -382,7 +382,7 @@ h4.cl-feed {
 
 .feed ul {
     list-style: none;
-    font-size: 18px;
+    font-size: 16px;
     padding-left: 0px;
     white-space: nowrap;
     overflow: hidden;
@@ -410,4 +410,41 @@ h4.cl-feed {
 .footer {
     text-align: left;
     margin: 30px 0 0 20px;
+}
+
+/* Weather Outfit Application */
+.outfit {
+    width: 95px;
+    height: 95px;
+    position:relative;
+    display: inline-table;
+    margin: 0 5px 0 0;
+}
+
+#outfit_ssleeve {
+    background: url(../img/cloth_icons.jpg) 285px 343px;
+}
+
+#outfit_lsleeve {
+    background: url(../img/cloth_icons.jpg) 379px 343px;
+}
+
+#outfit_pants {
+    background: url(../img/cloth_icons.jpg) 285px 153px;
+}
+
+#outfit_shorts {
+    background: url(../img/cloth_icons.jpg) 379px 153px;
+}
+
+#outfit_hoodie {
+     background: url(../img/cloth_icons.jpg) 379px 248px;
+ }
+
+#outfit_sweater {
+    background: url(../img/cloth_icons.jpg) 190px 343px;
+}
+
+#outfit_jacket {
+    background: url(../img/cloth_icons.jpg) 285px 248px;
 }

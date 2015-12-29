@@ -4,170 +4,170 @@
   <link rel="self" href="https://blueacorn.beanstalkapp.com/atom/65269fd822a19ab818d80f8a5a48d43771b60ae2"/>
   <link rel="alternate" href="https://blueacorn.beanstalkapp.com/"/>
   <id>69a256025f66e4ce5d15c9dd7225d357</id>
-  <updated>2015-06-16T00:47:11Z</updated>
+  <updated>2015-12-29T16:33:28Z</updated>
   <entry>
-    <title>[ART] Commit b2404957 to features/site-cleanup: added bottom cms block to login page of checkout; Added extra totals and place order CTA to bottom of right sidebar on last OPC step; Fixed category template description placement and styled; Removed link on category grid for Amasty favorites list; Changed SKU attribute on cat grid, simple and grouped PDP&amp;#39;s; Moved CTA&amp;#39;s for add to wishlist, teacherwishlist etc on simple products under the ATC button &amp;amp; styled for all breakpoints;</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/art/changesets/b24049579c068abe20bfc26772cc3d8fdcefc151"/>
-<id>fa38e64d90fac2a568b746c51459d1cd</id>
-<updated>2015-06-15T21:02:40Z</updated>
+    <title>[STO] Commit fe12812b to features/749349_Change_all_buttons_to_green: Change color on category request modal</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/stio/changesets/fe12812b47d3095d29406d2df0828b7db447c526"/>
+<id>535cb2bc1e84b47e210e0d7c12e37c22</id>
+<updated>2015-12-29T16:53:05Z</updated>
 <author>
-  <name>Bob Humphrey</name>
+  <name>Joshua Soileau</name>
 </author>
-<summary>added bottom cms block to login page of checkout; Added extra totals and place order CTA to bottom of right sidebar on last OPC step; Fixed category template description placement and styled; Removed link on category grid for Amasty favorites list; Changed SKU attribute on cat grid, simple and grouped PDP&amp;#39;s; Moved CTA&amp;#39;s for add to wishlist, teacherwishlist etc on simple products under the ATC button &amp;amp; styled for all breakpoints;</summary>
-<content>added bottom cms block to login page of checkout; Added extra totals and place order CTA to bottom of right sidebar on last OPC step; Fixed category template description placement and styled; Removed link on category grid for Amasty favorites list; Changed SKU attribute on cat grid, simple and grouped PDP&amp;#39;s; Moved CTA&amp;#39;s for add to wishlist, teacherwishlist etc on simple products under the ATC button &amp;amp; styled for all breakpoints;</content>
+<summary>Change color on category request modal</summary>
+<content>Change color on category request modal</content>
   </entry>
   <entry>
-    <title>[TSA] Commit 5a5107b9 to staging: Merge branch &amp;#39;features/309034_My_Account&amp;#39; into staging</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/tsa/changesets/5a5107b9127b6e5647acfa90dde171e0e43c2d04"/>
-<id>a6a72990796ebda76a35dabf4f392fa7</id>
-<updated>2015-06-15T19:29:44Z</updated>
+    <title>[STO] Commit 7d18faa9 to features/749349_Change_all_buttons_to_green: Few more missed color adjustments</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/stio/changesets/7d18faa97ba68a191ebe47153536582502b83df0"/>
+<id>5321de21ff07567e28e3777cc81a912c</id>
+<updated>2015-12-29T16:29:35Z</updated>
 <author>
-  <name>Brian Boyd</name>
+  <name>Joshua Soileau</name>
 </author>
-<summary>Merge branch &amp;#39;features/309034_My_Account&amp;#39; into staging</summary>
-<content>Merge branch &amp;#39;features/309034_My_Account&amp;#39; into staging</content>
+<summary>Few more missed color adjustments</summary>
+<content>Few more missed color adjustments</content>
   </entry>
   <entry>
-    <title>[TSA] Commit 8c8d0901 to features/309034_My_Account: add a blank line just to re-deploy to staging</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/tsa/changesets/8c8d0901cb8b695c30bee96a3425033ebd48da89"/>
-<id>b7275cc77cdb96e333887cb22e09868f</id>
-<updated>2015-06-15T19:28:44Z</updated>
+    <title>[STO] Commit ac006e47 to features/749349_Change_all_buttons_to_green: Make lots of color changes in sass, css, and imager files to new green</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/stio/changesets/ac006e474dc5e06a458b698c7a40e3c8f43b3dba"/>
+<id>d732d564c651dc931b33158e34961ee4</id>
+<updated>2015-12-29T16:22:32Z</updated>
 <author>
-  <name>Brian Boyd</name>
+  <name>Joshua Soileau</name>
 </author>
-<summary>add a blank line just to re-deploy to staging</summary>
-<content>add a blank line just to re-deploy to staging</content>
+<summary>Make lots of color changes in sass, css, and imager files to new green</summary>
+<content>Make lots of color changes in sass, css, and imager files to new green</content>
   </entry>
   <entry>
-    <title>[SS - Southern Season] Commit da9a1b86 to staging: Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ss/changesets/da9a1b8627259c47ce9521c5546d7fdce02953c7"/>
-<id>a11b4aecebad02894248142e9eaf9456</id>
-<updated>2015-06-15T19:09:00Z</updated>
+    <title>[GoStephens] Commit bbe5d900 to features/605329_google_analytics_tagging_plan: updated google analytics tagging for homepage/header/footer</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/bbe5d90054051ba64954597062e371606bfe2e4f"/>
+<id>028ef85b5cb46ed2aae3194e37f50991</id>
+<updated>2015-12-29T16:10:34Z</updated>
 <author>
-  <name>Michael Bottens</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</summary>
-<content>Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</content>
+<summary>updated google analytics tagging for homepage/header/footer</summary>
+<content>updated google analytics tagging for homepage/header/footer</content>
   </entry>
   <entry>
-    <title>[SS - Southern Season] Commit b555939c to staging: Fix search box width</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ss/changesets/b555939c9b6fa7e86322f9c24b7d560d0225bced"/>
-<id>b069ea30a86065067d3461eba37291b6</id>
-<updated>2015-06-15T19:08:52Z</updated>
+    <title>[GoStephens] Commit 4b4d458b to features/605329_google_analytics_tagging_plan: updated ga tagging</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/4b4d458b165e15b99c8d6681dfb360189f3c24b4"/>
+<id>a2f92589bd9c581c512ca9dffd389bca</id>
+<updated>2015-12-29T15:19:47Z</updated>
 <author>
-  <name>Michael Bottens</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>Fix search box width</summary>
-<content>Fix search box width</content>
+<summary>updated ga tagging</summary>
+<content>updated ga tagging</content>
   </entry>
   <entry>
-    <title>[TSA] Commit dee001ac to features/340489_Quick_Reorder_Form_Quick_Add_Box: fixed ie8</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/tsa/changesets/dee001acaaf2d6bcbc9fa19a442d80ee17e3506e"/>
-<id>04e45f5065f4058331c5848ed1f1c592</id>
-<updated>2015-06-15T18:45:24Z</updated>
+    <title>[GoStephens] Commit 0a04f048 to features/605329_google_analytics_tagging_plan: updated ba tracking with new libraries</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/0a04f048c9e5cf33eb96d1874706ebd9dc159dbf"/>
+<id>aa8eb218034b936ae12123cac2122436</id>
+<updated>2015-12-29T13:26:11Z</updated>
 <author>
-  <name>Brian Nations</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>fixed ie8</summary>
-<content>fixed ie8</content>
+<summary>updated ba tracking with new libraries</summary>
+<content>updated ba tracking with new libraries</content>
   </entry>
   <entry>
-    <title>[SS - Southern Season] Commit 2a455c65 to staging: Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ss/changesets/2a455c659248de92de2bf44130dd2488e3942c45"/>
-<id>fc1de72e56ee12ba2be527b4d9f78c45</id>
-<updated>2015-06-15T17:36:29Z</updated>
+    <title>[GoStephens] Commit 7350dc33 to features/605329_google_analytics_tagging_plan: added google tagging for homepage</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/7350dc33235b2638884966e8f3637414fbfed46d"/>
+<id>fdc29a933693527bb005a36cb696221d</id>
+<updated>2015-12-29T02:17:19Z</updated>
 <author>
-  <name>Michael Bottens</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</summary>
-<content>Merge branch &amp;#39;features/551191_Category_Page_Elements&amp;#39; into staging</content>
+<summary>added google tagging for homepage</summary>
+<content>added google tagging for homepage</content>
   </entry>
   <entry>
-    <title>[SS - Southern Season] Commit a6bef4f6 to features/551191_Category_Page_Elements: IE Specificity fixes, apply category styling to search results page</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ss/changesets/a6bef4f66f8a21b51b1c3f966b584e2fce4724b2"/>
-<id>56018a4207ca087f66db7098e7a0ff15</id>
-<updated>2015-06-15T17:36:17Z</updated>
+    <title>[STO] Commit c4ed3155 to features/749349_Change_all_buttons_to_green: Change all button colors, sitewide, to green</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/stio/changesets/c4ed3155d0c5638287b60cf00094ed9bd59b49a3"/>
+<id>12f0c60c0cb5b1dca9182767ca233e0c</id>
+<updated>2015-12-28T21:50:52Z</updated>
 <author>
-  <name>Michael Bottens</name>
+  <name>Joshua Soileau</name>
 </author>
-<summary>IE Specificity fixes, apply category styling to search results page</summary>
-<content>IE Specificity fixes, apply category styling to search results page</content>
+<summary>Change all button colors, sitewide, to green</summary>
+<content>Change all button colors, sitewide, to green</content>
   </entry>
   <entry>
-    <title>[EVE] Commit b783bd46 to production: fixed swatch params issue</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/eve/changesets/b783bd46af8b3f780ce410c6a4d4dbca15d7d313"/>
-<id>e30d5dee90ab23b8bd4720d432e769f3</id>
-<updated>2015-06-15T17:27:30Z</updated>
+    <title>[GoStephens] Commit 2475e8d8 to features/605329_google_analytics_tagging_plan: installed ba google analytics module</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/2475e8d8e725f2226e3ca1b8374b2a8317c265ec"/>
+<id>76e5afaf64f0699c4d0d3d195d88ccc7</id>
+<updated>2015-12-28T20:40:34Z</updated>
 <author>
-  <name>Brian Nations</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>fixed swatch params issue</summary>
-<content>fixed swatch params issue</content>
+<summary>installed ba google analytics module</summary>
+<content>installed ba google analytics module</content>
   </entry>
   <entry>
-    <title>[TSA] Commit 85bcbffd to staging: resolved merge conflicts</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/tsa/changesets/85bcbffd4a7653b0044f96843a7e150653573d78"/>
-<id>cfb9d4a80cc783a417edf8d292f271ce</id>
-<updated>2015-06-15T17:19:32Z</updated>
+    <title>[GoStephens] Commit 785e7a7d to features/605329_google_analytics_tagging_plan: installed universal analytics extension</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/gostephens/changesets/785e7a7d520b80cf9feb2b7b864267239d55cf70"/>
+<id>fa8e1e70b2e697480a10f63d57632ddd</id>
+<updated>2015-12-28T20:35:55Z</updated>
 <author>
-  <name>Brian Boyd</name>
+  <name>Bret Thomas</name>
 </author>
-<summary>resolved merge conflicts</summary>
-<content>resolved merge conflicts</content>
+<summary>installed universal analytics extension</summary>
+<content>installed universal analytics extension</content>
   </entry>
   <entry>
-    <title>[EE] Commit 33e0374e to production: Merge branch &amp;#39;hotfix/Alaska_Hawaii_Zipcodes&amp;#39; into production</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ee/changesets/33e0374e55bed1f4dc9c7613dd6dfbb565e97e79"/>
-<id>bd85d8e2263885cda8b64c08d4645dcb</id>
-<updated>2015-06-15T17:00:27Z</updated>
+    <title>[PG - Perform Group] Commit 3e1d44ea to staging: Merge branch &amp;#39;hotfixes/811792_Icoded_Items_Stock_Check_Fix&amp;#39; into staging</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/pg-perform-group/changesets/3e1d44eaf99cc973fa7f9a207265c0ad2d151167"/>
+<id>c4e6fb92d6787ac8d4e1fdc8cc65a84f</id>
+<updated>2015-12-23T20:18:53Z</updated>
 <author>
-  <name>Chris Potter</name>
+  <name>Ryan Barrineau</name>
 </author>
-<summary>Merge branch &amp;#39;hotfix/Alaska_Hawaii_Zipcodes&amp;#39; into production</summary>
-<content>Merge branch &amp;#39;hotfix/Alaska_Hawaii_Zipcodes&amp;#39; into production</content>
+<summary>Merge branch &amp;#39;hotfixes/811792_Icoded_Items_Stock_Check_Fix&amp;#39; into staging</summary>
+<content>Merge branch &amp;#39;hotfixes/811792_Icoded_Items_Stock_Check_Fix&amp;#39; into staging</content>
   </entry>
   <entry>
-    <title>[EE] Commit 62665550 to production: Merge branch &amp;#39;features/487612_Bing_UET_Tracking_Script&amp;#39; into production</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ee/changesets/62665550a68ee052ee3235ed0cda1e612b664af2"/>
-<id>a1ec503dda0574f99c7eb15674f5ce24</id>
-<updated>2015-06-15T17:00:08Z</updated>
+    <title>[PG - Perform Group] Commit 580861bb to hotfixes/811792_Icoded_Items_Stock_Check_Fix: REmoved check that caused problem when empty. Probably a php issue</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/pg-perform-group/changesets/580861bbabe7c79d8b1b80fbc13deb61957887fc"/>
+<id>6ec591779106e5dc596b6dc69f4764b3</id>
+<updated>2015-12-23T20:18:25Z</updated>
 <author>
-  <name>Chris Potter</name>
+  <name>Ryan Barrineau</name>
 </author>
-<summary>Merge branch &amp;#39;features/487612_Bing_UET_Tracking_Script&amp;#39; into production</summary>
-<content>Merge branch &amp;#39;features/487612_Bing_UET_Tracking_Script&amp;#39; into production</content>
+<summary>REmoved check that caused problem when empty. Probably a php issue</summary>
+<content>REmoved check that caused problem when empty. Probably a php issue</content>
   </entry>
   <entry>
-    <title>[EVE] Commit 9529e7e1 to production: Merge branch &amp;#39;production&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/eve into production</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/eve/changesets/9529e7e18b6460d9b085ea45bb827bf42a447239"/>
-<id>6f53c13457b7b0126e28b482e4379350</id>
-<updated>2015-06-15T16:46:15Z</updated>
+    <title>[PG - Perform Group] Commit 15f31a8c to staging: Merge branch &amp;#39;staging&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/pg-perform-group into staging</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/pg-perform-group/changesets/15f31a8ce5216583e6dc9775c076623ca87ed5a5"/>
+<id>ea53bc8e24f2172d55f0870e24fd371a</id>
+<updated>2015-12-23T19:48:56Z</updated>
 <author>
-  <name>Richard Heywood</name>
+  <name>Ryan Barrineau</name>
 </author>
-<summary>Merge branch &amp;#39;production&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/eve into production</summary>
-<content>Merge branch &amp;#39;production&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/eve into production</content>
+<summary>Merge branch &amp;#39;staging&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/pg-perform-group into staging</summary>
+<content>Merge branch &amp;#39;staging&amp;#39; of blueacorn.git.beanstalkapp.com:/blueacorn/pg-perform-group into staging</content>
   </entry>
   <entry>
-    <title>[EVE] Commit f516b308 to production: added other objects to type check</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/eve/changesets/f516b3087ac16d082fbbd8b08c62273624e0d817"/>
-<id>179ab48c3517a7966155801a8207add5</id>
-<updated>2015-06-15T16:45:32Z</updated>
+    <title>[EE] Commit 67cb0a77 to staging: Reverting back to last working commit</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ee/changesets/67cb0a77ac850ae925be088629ee669418f0ee54"/>
+<id>01b40bcacffb23750310a1d3178f52d3</id>
+<updated>2015-12-23T17:04:29Z</updated>
 <author>
-  <name>Richard Heywood</name>
+  <name>Shawn Foster</name>
 </author>
-<summary>added other objects to type check</summary>
-<content>added other objects to type check</content>
+<summary>Reverting back to last working commit</summary>
+<content>Reverting back to last working commit</content>
   </entry>
   <entry>
-    <title>[EVE] Commit 95443312 to production: Merge branch &amp;#39;features/393200_301_Redirects&amp;#39; into production</title>
-<link rel="alternate" href="https://blueacorn.beanstalkapp.com/eve/changesets/954433122fec5b6659c232e93d9f72c5d7430c63"/>
-<id>22e12cc803dcf11416fb08d4077daf2e</id>
-<updated>2015-06-15T16:45:02Z</updated>
+    <title>[EE] Commit ccaca98f to staging: Fixed merge conflict with staging.</title>
+<link rel="alternate" href="https://blueacorn.beanstalkapp.com/ee/changesets/ccaca98f1af779983cb6bc2aa3130d80edb4aa77"/>
+<id>5d84288a88c2ee9d91c8b11179916755</id>
+<updated>2015-12-23T15:05:10Z</updated>
 <author>
-  <name>Philip Meyer</name>
+  <name>Lori Gildersleeve</name>
 </author>
-<summary>Merge branch &amp;#39;features/393200_301_Redirects&amp;#39; into production</summary>
-<content>Merge branch &amp;#39;features/393200_301_Redirects&amp;#39; into production</content>
+<summary>Fixed merge conflict with staging.</summary>
+<content>Fixed merge conflict with staging.</content>
   </entry>
 </feed>

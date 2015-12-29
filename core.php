@@ -9,15 +9,7 @@
 class Homepage_Core_Functions {
 
     public function getBackground() {
-
-//        $bg_array = $this->getNasaImage($count = 20);
         $bg_array = $this->getDirectoryList('img/bg');
-//        $bg_array = array(
-//            "co_4.jpg",
-//            "co_5.jpg",
-//            "co_2.jpg",
-//            "space_1.jpg",
-//            "space_2.jpg",);
         return "img/bg/".$bg_array[array_rand($bg_array)];
     }
 
@@ -36,7 +28,8 @@ class Homepage_Core_Functions {
         if ($cache == true){
             $feed_url = 'feeds/craigslist'.$next.'.txt';
         }
-        $content = file_get_contents($feed_url);
+        $content = utf8_encode(file_get_contents($feed_url));
+
         $x = new SimpleXmlElement($content);
         echo "<ul>";
         $i = 0;
@@ -67,8 +60,7 @@ class Homepage_Core_Functions {
         return $image;
     }
 
-    public function getBStalkFeed($feed_url, $count = 10, $cache = true)
-    {
+    public function getBStalkFeed($feed_url, $count = 10, $cache = true) {
         try {
             if ($cache == true){
                 $feed_url = 'feeds/beanstalk.txt';
@@ -95,7 +87,8 @@ class Homepage_Core_Functions {
             //fail silently for now.
         }
     }
-        public function getDirectoryList($directory) {
+
+    public function getDirectoryList($directory) {
             // create an array to hold directory list
             $results = array();
             // create a handler for the directory
@@ -124,8 +117,45 @@ class Homepage_Core_Functions {
     public function getForecast() {
         $json_string = file_get_contents("http://api.wunderground.com/api/3d9047991415094c/forecast/q/SC/Charleston.json");
         $parsed_json = json_decode($json_string);
-        $location = $parsed_json->{'location'}->{'city'};
-        $temp_f = $parsed_json->{'current_observation'}->{'temp_f'};
-        //echo "Current temperature in ${location} is: ${temp_f}\n";
+        $forecast = $parsed_json->forecast->simpleforecast->forecastday;
+        return $forecast;
     }
+
+    public function getOutfit($high=null,$low=null,$rain=null,$hum=null,$wind=null) {
+    //start with the basic thresholds
+        $temp_index= array(
+            'hot' => 90,
+            'warm' => 75,
+            'nice' => 65,
+            'cool' => 55,
+            'cold' => 45,
+            'freezing' => 32);
+
+        $outfit = NULL;
+        $avg_temp = ($high + $low)/2;
+        $temp_desc = null;
+
+        foreach($temp_index as $key=>$val) {
+            if ($avg_temp < $val || $low < $val) {
+                $temp_desc = $key;
+            }
+        }
+
+        // very basic men's outfit based on temp
+        $outfit_matrix = array(
+            'hot' => 'ssleeve,shorts',
+            'warm' => 'ssleeve,pants',
+            'nice' => 'lsleeve,pants',
+            'cool' => 'lsleeve,pants,sweater',
+            'cold' => 'lsleeve,pants,hoodie',
+            'freezing' => 'lsleeve,pants,sweater,jacket'
+        );
+        $outfit = explode(',',$outfit_matrix[$temp_desc]);
+        $results = array(
+            'outfit'=>$outfit,
+            'cond'=>$temp_desc
+        );
+        return $results;
+    }
+
 }
